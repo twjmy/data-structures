@@ -10,7 +10,6 @@ typedef struct node{
 	char object[15];
 	struct node *next;
 } Node;
-int recipes; // In the first line, an integer indicates how many recipes there are.
 typedef struct recipe{
 	char recipe_name[35]; // [PPT] The "recipe_name" field indicates which meals your guests ordered.
 	int s; // [PPT] The ingredients that need to be cooked first on the stove.
@@ -18,7 +17,9 @@ typedef struct recipe{
 	int others; // [PPT] The ingredients that do not require pre-processing.
 	Node *stove; // [PPT] 5 minutes for cooking something on the stove (fixed)
 	Node *cut; // [PPT] 3 minutes for cutting something (fixed)
-} Recipe; Recipe *recipe; // The following rows are the recipe data.
+} Recipe;
+int recipes; // In the first line, an integer indicates how many recipes there are.
+Recipe *recipe; // The following rows are the recipe data.
 typedef struct order{ // save orders corresponding s, c, and objects while reading orders.txt without saving "recipe_name"
 	int s; Node *stove;
 	int c; Node *cut;
@@ -41,7 +42,7 @@ typedef struct task{
 	 * (2) c+object: cutting "object" on cutting board.
 	 * (3) f : food presentation.
 	 */
-	char command; char object[15];
+	char command, object[15];
 	struct task *next;
 } Task;
 int commands; // [PPT] The first line uses an integer to indicate how many commands there are.
@@ -144,13 +145,13 @@ main(){ // run in c18
 		bool flag;
 		if(order[i].s){
 			const int s = f - s5;
-			for(flag = true, stove[1] = order[i].arrival; stove[1] < s; ++stove[1]){
+			for(flag = true, stove[1] = order[i].arrival; stove[1] < s; ++stove[1]){ // player 1
 				for(flag = true, k = -1; flag && ++k < s5;)
 					if(field[1][stove[1]+k] || field[0][stove[1]+k])
 						flag = false;
 				if(flag) break;
 			}
-			for(flag = true, stove[2] = order[i].arrival; stove[2] < s; ++stove[2]){
+			for(flag = true, stove[2] = order[i].arrival; stove[2] < s; ++stove[2]){ // player 2
 				for(flag = true, k = -1; flag && ++k < s5;)
 					if(field[2][stove[2]+k] || field[0][stove[2]+k])
 						flag = false;
@@ -185,13 +186,13 @@ main(){ // run in c18
 		}
 		if(order[i].c){
 			const int c = f - c3;
-			for(flag = true, cut[1] = order[i].arrival; cut[1] < c; ++cut[1]){
+			for(flag = true, cut[1] = order[i].arrival; cut[1] < c; ++cut[1]){ // player 1
 				for(flag = true, k = -1; flag && ++k < c3;)
 					if(field[1][cut[1]+k] || field[3][cut[1]+k])
 						flag = false;
 				if(flag) break;
 			}
-			for(flag = true, cut[2] = order[i].arrival; cut[2] < c; ++cut[2]){
+			for(flag = true, cut[2] = order[i].arrival; cut[2] < c; ++cut[2]){ // player 2
 				for(flag = true, k = -1; flag && ++k < c3;)
 					if(field[2][cut[2]+k] || field[3][cut[2]+k])
 						flag = false;
@@ -238,13 +239,13 @@ main(){ // run in c18
 				}
 			}
 		}
-		for(flag = true, put[1] = start; put[1] < f; ++put[1]){
+		for(flag = true, put[1] = start; put[1] < f; ++put[1]){ // player 1
 			for(flag = true, k = -1; flag && ++k < order[i].others;)
 				if(field[1][put[1]+k])
 					flag = false;
 			if(flag) break;
 		}
-		for(flag = true, put[2] = start; put[2] < f; ++put[2]){
+		for(flag = true, put[2] = start; put[2] < f; ++put[2]){ // player 2
 			for(flag = true, k = -1; flag && ++k < order[i].others;)
 				if(field[2][put[2]+k])
 					flag = false;
@@ -303,7 +304,7 @@ main(){ // run in c18
 				}
 				pivot = pivot->next;
 			}
-		}else if(stove[0] == 2){// player 2
+		}else if(stove[0] == 2){ // player 2
 			for(Node *pivot = order[i].stove; pivot;){
 				Task *temp1 = malloc(sizeof(Task));
 				temp1->t = stove[2];
@@ -344,7 +345,7 @@ main(){ // run in c18
 				}
 				pivot = pivot->next;
 			}
-		}else if(cut[0] == 2){// player 2
+		}else if(cut[0] == 2){ // player 2
 			for(Node *pivot = order[i].cut; pivot;){
 				Task *temp1 = malloc(sizeof(Task));
 				temp1->t = cut[2];
@@ -380,7 +381,7 @@ main(){ // run in c18
 				temp1->next = temp2->next;
 				temp2->next = temp1;
 			}
-		}else if(put[0] == 2){// player 2
+		}else if(put[0] == 2){ // player 2
 			Task *temp1 = malloc(sizeof(Task));
 			temp1->t = put[2];
 			temp1->order_ID = order[i].order_ID;
