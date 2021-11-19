@@ -1,0 +1,58 @@
+Path length: 40
+=====outMaze=====
+T O X X * T X O O X O O O 
+O T O O * O T X X T O O X 
+X O X * * T X T X X O O O 
+O O O * X O O X X O X X O 
+O U O * O T X O X O O O X 
+T O X O X O X X O X T X O 
+O O X T T X X X X O X O O 
+O O O O O O X O X X O O O 
+X O O X T O O X T X X O O 
+X T O O O X X X O O O O X 
+X O O X O O T O O O O O O 
+X T X O X X X O O X O X X 
+O X T O O X X O T O X X O 
+
+X X X X O O O O O X X 
+O X X T T O O X X O O 
+O O O O X O O X O O X 
+O * * O O X O O O O X 
+O X T O X O X O O X O 
+O O O O O X O O O O T 
+O O X O X O X O O X O 
+O X X O U O X O X T X 
+O O T T X O O X O X X 
+X X X O O O X X X U X 
+O O O O X O O O X X O 
+
+O X T O X O X O X 
+O X O O O O O U X 
+* * T U U O X O O 
+T * * X O X O O O 
+X X * * * O O O X 
+X O O X O X O O O 
+X O O X O X O O O 
+X O X O X X X O O 
+X X O O X O O X O 
+
+O X O O X O O 
+X X O X X X X 
+O X X X X * O 
+O O X * X * X 
+O X X * * * X 
+O X O X O X O 
+O X O O X O O 
+
+T X * * * 
+X X * X * 
+T * * X O 
+X U X O X 
+O T O O X 
+
+T X O 
+* * X 
+O X X 
+
+* 
+

@@ -1,0 +1,122 @@
+63 45 26 78 545 905 9 636 315 133 22 779 407 881 117 649 33 96 138 76 433 857 678 15 7 437 263 920 23 840 6 295 657 565 18 468 493 36 226 77 580 60 194 701 212 684 455 86 591 470
+120
+add 677
+del 3
+ins 1 156
+rev 7
+add 808
+show
+add 828
+add 739
+mul 27 0
+add 733
+rev 37
+add 785
+add 476
+mul 7 12
+rev 45
+del 45
+del 31
+mul 17 3
+show
+ins 35 410
+add 711
+del 5
+add 162
+rev 51
+rev 52
+ins 15 161
+add 443
+mul 3 12
+del 8
+del 43
+mul 38 8
+del 2
+ins 24 99
+del 9
+del 50
+ins 22 270
+mul 27 13
+mul 3 16
+rev 22
+add 260
+del 22
+ins 16 410
+mul 30 20
+rev 50
+mul 29 7
+add 542
+add 222
+add 585
+mul 57 11
+rev 30
+mul 17 15
+add 710
+mul 27 5
+mul 1 10
+add 726
+ins 25 220
+ins 40 118
+mul 17 12
+mul 11 8
+rev 52
+add 642
+ins 33 266
+rev 28
+del 44
+add 528
+mul 14 3
+mul 43 11
+del 3
+add 406
+add 418
+add 715
+ins 39 241
+ins 13 313
+mul 22 2
+add 671
+ins 58 326
+ins 37 232
+add 652
+ins 22 267
+add 573
+add 453
+del 16
+add 850
+rev 21
+mul 26 20
+ins 59 331
+mul 35 6
+rev 28
+mul 1 9
+add 565
+del 38
+rev 51
+del 18
+ins 22 126
+show
+ins 45 180
+del 17
+mul 55 12
+add 812
+ins 48 329
+mul 11 16
+mul 9 8
+add 396
+del 43
+add 857
+del 27
+add 197
+mul 28 7
+ins 41 149
+del 53
+mul 74 8
+show
+rev 53
+del 22
+add 463
+del 61
+add 607
+del 72
+add 96
+show

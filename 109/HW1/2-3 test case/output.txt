@@ -1,0 +1,299 @@
+test 1 starts now.
+Shortest path: 10, The number of different paths: 3
+
+test 2 starts now.
+Shortest path: 13, The number of different paths: 1
+
+test 3 starts now.
+Shortest path: 11, The number of different paths: 1
+
+test 4 starts now.
+Shortest path: 6, The number of different paths: 5
+
+test 5 starts now.
+Shortest path: 11, The number of different paths: 3
+
+test 6 starts now.
+Shortest path: 18, The number of different paths: 2
+
+test 7 starts now.
+Shortest path: 9, The number of different paths: 6
+
+test 8 starts now.
+Shortest path: 6, The number of different paths: 6
+
+test 9 starts now.
+Shortest path: 12, The number of different paths: 4
+
+test 10 starts now.
+Shortest path: 9, The number of different paths: 1
+
+test 11 starts now.
+Shortest path: 14, The number of different paths: 88
+
+test 12 starts now.
+Shortest path: 23, The number of different paths: 408
+
+test 13 starts now.
+Shortest path: 13, The number of different paths: 4
+
+test 14 starts now.
+Shortest path: 14, The number of different paths: 21155
+
+test 15 starts now.
+Shortest path: 16, The number of different paths: 24
+
+test 16 starts now.
+Shortest path: 13, The number of different paths: 104
+
+test 17 starts now.
+Shortest path: 7, The number of different paths: 43
+
+test 18 starts now.
+Shortest path: 15, The number of different paths: 102
+
+test 19 starts now.
+Shortest path: 22, The number of different paths: 74
+
+test 20 starts now.
+Shortest path: 15, The number of different paths: 10
+
+test 21 starts now.
+Shortest path: 16, The number of different paths: 24
+
+test 22 starts now.
+Shortest path: 31, The number of different paths: 32
+
+test 23 starts now.
+Shortest path: 29, The number of different paths: 12
+
+test 24 starts now.
+Shortest path: 14, The number of different paths: 1
+
+test 25 starts now.
+Shortest path: 24, The number of different paths: 792
+
+test 26 starts now.
+Shortest path: 19, The number of different paths: 76
+
+test 27 starts now.
+Shortest path: 38, The number of different paths: 384
+
+test 28 starts now.
+Shortest path: 17, The number of different paths: 240
+
+test 29 starts now.
+Shortest path: 21, The number of different paths: 1134
+
+test 30 starts now.
+Shortest path: 21, The number of different paths: 72
+
+test 31 starts now.
+Shortest path: 25, The number of different paths: 12
+
+test 32 starts now.
+Shortest path: 29, The number of different paths: 32
+
+test 33 starts now.
+Shortest path: 17, The number of different paths: 24
+
+test 34 starts now.
+Shortest path: 26, The number of different paths: 1280
+
+test 35 starts now.
+Shortest path: 21, The number of different paths: 3880
+
+test 36 starts now.
+Shortest path: 42, The number of different paths: 138240
+
+test 37 starts now.
+Shortest path: 36, The number of different paths: 640
+
+test 38 starts now.
+Shortest path: 28, The number of different paths: 10344
+
+test 39 starts now.
+Shortest path: 48, The number of different paths: 2560
+
+test 40 starts now.
+Shortest path: 19, The number of different paths: 6
+
+test 41 starts now.
+Shortest path: 29, The number of different paths: 3528
+
+test 42 starts now.
+Shortest path: 22, The number of different paths: 2
+
+test 43 starts now.
+Shortest path: 30, The number of different paths: 41328
+
+test 44 starts now.
+Shortest path: 35, The number of different paths: 7680
+
+test 45 starts now.
+Shortest path: 23, The number of different paths: 2
+
+test 46 starts now.
+Shortest path: 42, The number of different paths: 384
+
+test 47 starts now.
+Shortest path: 36, The number of different paths: 3360
+
+test 48 starts now.
+Shortest path: 29, The number of different paths: 74520
+
+test 49 starts now.
+Shortest path: 25, The number of different paths: 672
+
+test 50 starts now.
+Shortest path: 29, The number of different paths: 480
+
+test 51 starts now.
+Shortest path: 30, The number of different paths: 8
+
+test 52 starts now.
+Shortest path: 23, The number of different paths: 18432
+
+test 53 starts now.
+Shortest path: 21, The number of different paths: 84320
+
+test 54 starts now.
+Shortest path: 20, The number of different paths: 7296
+
+test 55 starts now.
+Shortest path: 36, The number of different paths: 832
+
+test 56 starts now.
+Shortest path: 35, The number of different paths: 5808
+
+test 57 starts now.
+Shortest path: 33, The number of different paths: 208
+
+test 58 starts now.
+Shortest path: 46, The number of different paths: 144
+
+test 59 starts now.
+Shortest path: 33, The number of different paths: 2464
+
+test 60 starts now.
+Shortest path: 48, The number of different paths: 768
+
+test 61 starts now.
+Shortest path: 47, The number of different paths: 520
+
+test 62 starts now.
+Shortest path: 32, The number of different paths: 1024
+
+test 63 starts now.
+Shortest path: 41, The number of different paths: 2304
+
+test 64 starts now.
+Shortest path: 20, The number of different paths: 192
+
+test 65 starts now.
+Shortest path: 25, The number of different paths: 32
+
+test 66 starts now.
+Shortest path: 21, The number of different paths: 252
+
+test 67 starts now.
+Shortest path: 41, The number of different paths: 336
+
+test 68 starts now.
+Shortest path: 35, The number of different paths: 1560
+
+test 69 starts now.
+Shortest path: 27, The number of different paths: 96
+
+test 70 starts now.
+Shortest path: 21, The number of different paths: 128
+
+test 71 starts now.
+Shortest path: 29, The number of different paths: 4
+
+test 72 starts now.
+Shortest path: 29, The number of different paths: 336
+
+test 73 starts now.
+Shortest path: 39, The number of different paths: 132192
+
+test 74 starts now.
+Shortest path: 37, The number of different paths: 32
+
+test 75 starts now.
+Shortest path: 23, The number of different paths: 2232
+
+test 76 starts now.
+Shortest path: 31, The number of different paths: 4
+
+test 77 starts now.
+Shortest path: 24, The number of different paths: 528
+
+test 78 starts now.
+Shortest path: 49, The number of different paths: 24
+
+test 79 starts now.
+Shortest path: 32, The number of different paths: 17280
+
+test 80 starts now.
+Shortest path: 20, The number of different paths: 8
+
+test 81 starts now.
+Shortest path: 35, The number of different paths: 3648
+
+test 82 starts now.
+Shortest path: 28, The number of different paths: 8100
+
+test 83 starts now.
+Shortest path: 30, The number of different paths: 351
+
+test 84 starts now.
+Shortest path: 39, The number of different paths: 2112
+
+test 85 starts now.
+Shortest path: 19, The number of different paths: 2
+
+test 86 starts now.
+Shortest path: 32, The number of different paths: 2784
+
+test 87 starts now.
+Shortest path: 24, The number of different paths: 552
+
+test 88 starts now.
+Shortest path: 40, The number of different paths: 312
+
+test 89 starts now.
+Shortest path: 57, The number of different paths: 432
+
+test 90 starts now.
+Shortest path: 26, The number of different paths: 6480
+
+test 91 starts now.
+Shortest path: 20, The number of different paths: 1
+
+test 92 starts now.
+Shortest path: 28, The number of different paths: 18000
+
+test 93 starts now.
+Shortest path: 29, The number of different paths: 256
+
+test 94 starts now.
+Shortest path: 42, The number of different paths: 6336
+
+test 95 starts now.
+Shortest path: 37, The number of different paths: 10560
+
+test 96 starts now.
+Shortest path: 32, The number of different paths: 40
+
+test 97 starts now.
+Shortest path: 22, The number of different paths: 864
+
+test 98 starts now.
+Shortest path: 39, The number of different paths: 65664
+
+test 99 starts now.
+Shortest path: 43, The number of different paths: 720
+
+test 100 starts now.
+Shortest path: 27, The number of different paths: 68

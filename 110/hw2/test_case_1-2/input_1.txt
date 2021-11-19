@@ -1,0 +1,62 @@
+7 15 91 1 111 35 64 87 2 274 238 34 9 49 87 52 85 21 61 65 44 88 333 5 49 186 99 28 29 8
+60
+add 9
+add 5
+rev 3
+rev 7
+del 23
+add 20
+rev 24
+rev 7
+del 2
+add 9
+del 27
+rev 192
+ins 30 18
+add 122
+del 5
+mul 9 9
+show
+del 16
+add 158
+rev 19
+mul 20 2
+ins 9 49
+mul 8 3
+add 180
+del 15
+mul 10 9
+add 149
+ins 21 39
+add 130
+add 121
+show
+rev 28
+ins 18 79
+ins 4 69
+mul 25 11
+rev 14
+add 241
+ins 12 99
+rev 8
+rev 31
+del 3
+mul 1 4
+rev 232
+del 250
+add 28
+ins 7 46
+mul 18 74
+add 120
+add 287
+ins 13 33
+ins 4 49
+del 179
+del 169
+add 39
+rev 23
+add 294
+rev 15
+mul 20 6
+del 19
+show

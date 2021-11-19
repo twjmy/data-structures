@@ -1,0 +1,1500 @@
+-- is found in the dictionary.
+---- is found in the dictionary.
+-------.-......--.-.. is found in the dictionary.
+------..-......-. is found in the dictionary.
+.-.---.-.-----..-.-.--.-.-.-..--..-.--.-.-..-...--..---...-.-....-..-..--.-- is not found in the dictionary.
+.-...---.--.-.--...--....--..-.---.-.-..-.-----.-.-..-..----.---..--.--......--.-.-.--.- is not found in the dictionary.
+.--.--.- is found in the dictionary.
+------...----.-...-.--. is found in the dictionary.
+-...-. is not found in the dictionary.
+.-.---..-.--.----.-.-. is not found in the dictionary.
+-..-.-.-.- is not found in the dictionary.
+------....-.-...-.-. is found in the dictionary.
+-.-----.-.-.-.---...-- is not found in the dictionary.
+..---.-....-..-.-..-.-.--.-----...-.-.-.--..-.----....--...-.-.-....-- is not found in the dictionary.
+-.-.-.--.--.-.--.-.-.-.----..--.-...-.-..---.----.-.-..-.--.--...-......-...-.--.-----...-..----.-.--..-.-..----.--....-.---....--.-...------.---- is not found in the dictionary.
+...---.--.--.-..-.--..-..-..--.---.-------.-... is not found in the dictionary.
+------....-.-...... is found in the dictionary.
+------....-.. is found in the dictionary.
+------.....-.--..-.--. is found in the dictionary.
+.-...-...-.-..-..-- is not found in the dictionary.
+...--..---.-.-.....--.....-.-.-.--....------.-..---....--....-..-.----.-.-.-...-.---------.--.-.-.-.-.....----..-.-... is not found in the dictionary.
+------.....-.--.... is found in the dictionary.
+.-.-.---.--.----.-.....-. is not found in the dictionary.
+..-....-...--.-.-......--.-.-..---..-- is not found in the dictionary.
+------......-.-.-- is found in the dictionary.
+-.-..-.----...-.-.-. is not found in the dictionary.
+-.. is found in the dictionary.
+---..-..-.-.-..-----...--....--..---..-.--- is not found in the dictionary.
+------......-...-.-..--..----.... is found in the dictionary.
+-.--..---.-. is not found in the dictionary.
+-----.-- is found in the dictionary.
+-.---.-.-..----.-..-.-.-.....---..-.--..----.----..-......--.......---...-.------ is not found in the dictionary.
+-----.-.. is found in the dictionary.
+-......---.--.-..-...-----...---.-....-.. is not found in the dictionary.
+..--.--.--.--. is not found in the dictionary.
+-----.-..-...... is found in the dictionary.
+-----..--.-.. is found in the dictionary.
+-.-.-..-..-.---.---..-..--..-.--...--..--.-.-.--....-.--.---.--...-.-....--.-...-.-...--.--..--.---.--.--.-. is not found in the dictionary.
+-----...- is found in the dictionary.
+-----...--.--... is found in the dictionary.
+----. is found in the dictionary.
+---....-..--...-.--.-..-.--..--.-..-.------..-. is not found in the dictionary.
+.. is found in the dictionary.
+-.-.--.-..-.--..----- is not found in the dictionary.
+----.---- is found in the dictionary.
+----.--.---..-..-..--.-.-.- is found in the dictionary.
+----.--.-.-.-..... is found in the dictionary.
+----.-. is found in the dictionary.
+--.-.-.--.--..-.--..-.-.--.--.......---.--..--.--...--.---..-.-.------.-.-...---.-...--.---.--.-.-.-....---.-...-.------..--.--....-.-.--.....--.--..-..--..---.--.--...--..-...-.----.-.-.--.-.-.--..---..-.--...-..-.--.-.-.-.-.-..-.-...-..-.--..-..---.----.- is not found in the dictionary.
+----.-.- is found in the dictionary.
+.---...-.--.-.-.-.-.----...-----....-..-..-.--.----..-----...--...-.--....-.-....--.---..-..---.-...-.....----.---...--.----.-.----....-.-...-.-----.-.......---..-.....--..--.--.-.-.-...-...---..-----...----..-...-..-.-.-.-..-..--...-.--..-...-.-----..--.---....-----..--...-.-----..---..--...-.-----..-.---- is not found in the dictionary.
+----.-.-.-...-.-.... is found in the dictionary.
+----.-.-.. is found in the dictionary.
+-----.--.-.----.--........-.-..-........--...---.-...-.-.--.--..-.-...--.-.-.....--..-.-.-..--.--.--...---....--.---..--...--.-.----..--...---...-.--.-.----- is not found in the dictionary.
+----.. is found in the dictionary.
+--....--....--..-.-.----.....----.-..-----. is not found in the dictionary.
+----..-..-.-- is found in the dictionary.
+..--.---...-.-.--.--.-.--.--..--..---.-......--..-.-..-..--.-.----...-....----....--...-.---.-...--.........----.--......--.--- is not found in the dictionary.
+....-..--.---.-...--.----.--.-.-.--..------...--...-.....-.........-.--.--.-.-.- is not found in the dictionary.
+-..--.-...-..-..-..-.-...----..--.. is not found in the dictionary.
+--.-.--.----.-.- is not found in the dictionary.
+----...-. is found in the dictionary.
+----......-. is found in the dictionary.
+..----.---....-.-----.---..-.-.-..-.-....-..-.---...-....--..-..-.---..---...--------..-.-...-.-.--..-.--.---...--.---.-.---------.---.-...-----.--...--.-.-- is not found in the dictionary.
+----......-..--...... is found in the dictionary.
+.-------..--...-..-..--... is not found in the dictionary.
+---.---. is found in the dictionary.
+..-...---..---.-.-...-... is not found in the dictionary.
+---.---.--..-.. is found in the dictionary.
+---.---..-..--.----..-...--..-..-..--..-.---.-...- is not found in the dictionary.
+.-....-.-..---.--.-......-.-....---.....--.-....--...--.---...-.-. is not found in the dictionary.
+---.---.--...-.--. is found in the dictionary.
+.-....---.----...-.---.-.--.-...-..-.-----.-..--.--------.--.-.-...--.--------.-.-..-.--- is not found in the dictionary.
+---.--...--.-...--...--..-...--.....-..-.......-...--.-.--. is not found in the dictionary.
+.-.-.-------.........--..--.--.-...------.--.-....-..-...-...--.-.--.- is not found in the dictionary.
+---.---.-.--....-... is found in the dictionary.
+.---.--.. is not found in the dictionary.
+---.---.... is found in the dictionary.
+.-.----.-.-....--.--.-.------..--.-..-.-.. is not found in the dictionary.
+---.--.-..----. is found in the dictionary.
+...-.--.-.-.-.--.....--....-------.-.---.-..--..---.--.--.. is not found in the dictionary.
+-..-..-.-.--.-..-----.-. is not found in the dictionary.
+-.---..--....-..-.-...-.--..---.--.--..-.--.-..-.-.---..--.--------..--..-.......-..-.--.----.-..-..-.---.....---.-..--.-.---. is not found in the dictionary.
+.-.....--.--...-.--.--.--.--..-.. is not found in the dictionary.
+---.--.-..----..-.-.. is found in the dictionary.
+---.--.-..--..--... is found in the dictionary.
+---.--.-..--..--...-.. is found in the dictionary.
+--...---..------ is not found in the dictionary.
+---.--..--.---.-.-..--...-...... is found in the dictionary.
+---.--..-. is found in the dictionary.
+---.--..-...-..-..---.-- is found in the dictionary.
+-.-.-.----....--.--.---.---..--.-..---...- is not found in the dictionary.
+---.--...---.-.. is found in the dictionary.
+.---.-.--....--.---.----..--..--.-.--...--.------.--..--.-.--..-.-.----..-......-...... is not found in the dictionary.
+..-...-....----.-.-....-.-..-.---..---..---.---.---..----....--..--..--..--......-.--.-.--...--..-.--.-...-.--....-.----.-..--.------.-.-.-.-.---...---.-..-.--.....-.-.-...-.--. is not found in the dictionary.
+....-...-..-...-..-----.-.-....-..---.---..-..-.....--.. is not found in the dictionary.
+---.--...-..-----.-. is found in the dictionary.
+-.-.-.---.-.-....--.- is not found in the dictionary.
+. is found in the dictionary.
+...-.-.............- is not found in the dictionary.
+---.----..-..-. is not found in the dictionary.
+---.--...-..-----.-.... is found in the dictionary.
+--..--...-...--.-.----....--------....-..-.-.---..-..--.-.-.-.-.--...--...-.... is not found in the dictionary.
+-.-.-.-.-.----...-.--.---.---..--.........----..-. is not found in the dictionary.
+--..---..--..--.....-...-..-...--.-..-..-.- is not found in the dictionary.
+---.--...-..--. is found in the dictionary.
+---.--...-..--..----.... is found in the dictionary.
+---.--...-..--.... is found in the dictionary.
+--...--.-.-.---.-..-.-..-.---.......--..-..-..---.--....--..-.------...-.-.---...--..-..-.-----...--.. is not found in the dictionary.
+-...--..-..-.--...- is not found in the dictionary.
+---.-. is found in the dictionary.
+---.-.-..-.-.-------.-.-..-......--.-.---.--...-.----.-.......--.-....-.-----.-.....-.--.--.--.-....---..---.------.---..--..- is not found in the dictionary.
+..-...-..-.---..--.-..-..-.-..------..-. is not found in the dictionary.
+---.-.-.-.---.---. is found in the dictionary.
+---.-.-.-..--.-. is found in the dictionary.
+.-------.-...-...----.---..----..----..-.--..-..---- is not found in the dictionary.
+...--..-.--.----.. is not found in the dictionary.
+---.-.-....-. is found in the dictionary.
+---.-.-....-..-.. is found in the dictionary.
+---..-- is found in the dictionary.
+---..--.-....-.. is found in the dictionary.
+..-...-...-.--.--.--...-.---.---....--..- is not found in the dictionary.
+---..-. is found in the dictionary.
+---..-.-. is found in the dictionary.
+---... is found in the dictionary.
+---...-..-. is found in the dictionary.
+.-....---.-----.-.----.-.---.--.-....-.-......--.-...--..--.--..-----..-..-.....--..--.---.----- is not found in the dictionary.
+.--.-----....-....-....-.....-..-...-... is not found in the dictionary.
+.-..-.-.--.-. is not found in the dictionary.
+..-----....-.----.-.--.....-......--------..---.----.-..-.---.---.--..-.--..-.---....-...--.-.-.-..-..-.....---..-.---.----- is not found in the dictionary.
+---...-..-...-..-..---.--..-.--. is found in the dictionary.
+-......--..---....----.......--...---.-..-.-.....--..-. is not found in the dictionary.
+---.-.-.....--...-.-..----..-..--.--------..-.-...-----..-..---....--... is not found in the dictionary.
+--. is found in the dictionary.
+.....-.-.-.-......--.-..--..----...-..----.-..---..-...-... is not found in the dictionary.
+-. is found in the dictionary.
+...-.----.--.---..--.-.----...--...----.-..-.-.....-.-.--.-.--.- is not found in the dictionary.
+--.------- is found in the dictionary.
+... is found in the dictionary.
+---..--..---.---.--..-..-..--.-.--.....--.-.-. is not found in the dictionary.
+--.--------..-... is found in the dictionary.
+--.-----.-.-.-- is found in the dictionary.
+.---..--...-.-..-.-...-. is not found in the dictionary.
+-.-.-..--.---..-...- is not found in the dictionary.
+--.---.-.-.. is found in the dictionary.
+..-....---.-----...-.-..--...----...----..--.--- is not found in the dictionary.
+--.---.-.-..... is found in the dictionary.
+..--....--.-..------..----....-.---.-.-.-..--..-.-.. is not found in the dictionary.
+--.---.-..... is found in the dictionary.
+--.---.-......--.-.-..----. is found in the dictionary.
+--.---.-......-.. is found in the dictionary.
+--.---.-.......-.--. is found in the dictionary.
+. is found in the dictionary.
+--.---.-......... is found in the dictionary.
+--.---.... is found in the dictionary.
+--.---......-..... is found in the dictionary.
+--.--.-- is found in the dictionary.
+--.--.--.. is found in the dictionary.
+..----....-.-..-.-.-.--.-..--..---..-.....--..-...-..--.-----.--------..-...--...-.--.--...-.-.. is not found in the dictionary.
+..--..-.---.-.--...-.---.... is not found in the dictionary.
+....------- is not found in the dictionary.
+-..-------...-.-.-.-.-..--.-----.-......-..----.-- is not found in the dictionary.
+--.--.--..-.. is found in the dictionary.
+--.--.--...-.--. is found in the dictionary.
+.--..-....--.-..---.--..-.-.-.-..--..------.-...-...-.... is not found in the dictionary.
+--.--.--..... is found in the dictionary.
+.....--.--..--...-..--------.-.-....----.---.-...---..-..-..-------.........---.--...-----.. is not found in the dictionary.
+...--...--. is not found in the dictionary.
+--.--.-. is found in the dictionary.
+--.--.-.-- is found in the dictionary.
+--.--.-.... is found in the dictionary.
+.----.-..-- is not found in the dictionary.
+--..---..-.---..-..- is not found in the dictionary.
+---..-..-.-....-.....-...--..-.-.-..-.-.--.---..-.----.-...-.----...--...--...-...-.-....-.-...--...-.- is not found in the dictionary.
+-.--......-...-..-. is not found in the dictionary.
+--.--.-.......-.. is found in the dictionary.
+--.--..- is found in the dictionary.
+......-..--.-.....-----...-..-.-..-..-..--- is not found in the dictionary.
+- is not found in the dictionary.
+--.--..---..--.-.- is found in the dictionary.
+--.--..-..--..--- is found in the dictionary.
+--...------....---.-.-..--....--..---..-.-..-.-.. is not found in the dictionary.
+--.--..-..... is found in the dictionary.
+.---.-.--...-.-----.---.--....-..-.-..-.-.-.-------.----..-. is not found in the dictionary.
+..-------...-.--...---.---..--.-..-......---.--...--.-.-..---...-..--.-. is not found in the dictionary.
+-.-.---.------.........--------..-..-..-..--...--...-.--.-..---.-..--..---...-.-.---.......-....-.--..-.--- is not found in the dictionary.
+..-.-.--......---..--.-....-.---..---......--.-...---...----.--.----.-..---...-.....-----.---.-.--...-.---...-..--...-.---.....-.--........-..-.-.-----....--.----..--.-..--.-..---...-.--.-.-...-.....---..-.---...-.-----.-....-.--.--.--.----...-.-.---.....--.-. is not found in the dictionary.
+-..-.--..---.--.. is not found in the dictionary.
+--..----....-.-. is not found in the dictionary.
+--.--..-.....--... is found in the dictionary.
+--.--..-......-....-.-. is found in the dictionary.
+--.-.------.-..--.....---........ is found in the dictionary.
+-...-.-.-....---.-..--.-...-..... is not found in the dictionary.
+--.-.--. is found in the dictionary.
+.-.--..--.----..---.-...--.-..- is not found in the dictionary.
+.-.-----.--.........--...-...-..--..--.-..---.--.-..--.-.-- is not found in the dictionary.
+--.-.--..--..-.. is found in the dictionary.
+--.-.--...--.- is found in the dictionary.
+--.-.--...--.-..-.--..-.........--.---.-.- is found in the dictionary.
+--.-.--.... is found in the dictionary.
+-..--....-.----...-------....--...-.----.-.-..--..--....---.---..-..--.---.-.--.--.-.-.-.--.-.....-.-.----.-..---..-...------......----.-.-.------.-.-..-.--...------.-.--.-.....--..--.-.. is not found in the dictionary.
+..--.---.--.-..---.--.---...-.---...--.. is not found in the dictionary.
+-........--.-.-.----...-. is not found in the dictionary.
+--.-.-.-.-.-.. is found in the dictionary.
+-..-.-..-.--..--.--..----..----.---....--.--..---...--.--....-...--....-.----.- is not found in the dictionary.
+--.-.-.-..-. is found in the dictionary.
+--.-.-......--......-- is found in the dictionary.
+-.--..--.. is not found in the dictionary.
+--.-.-......--......--... is found in the dictionary.
+.- is found in the dictionary.
+..-.-... is not found in the dictionary.
+--.-.. is found in the dictionary.
+.---.- is not found in the dictionary.
+--.....---. is not found in the dictionary.
+-.-...--.-..-.---.- is not found in the dictionary.
+--.-..--- is found in the dictionary.
+.----..--. is not found in the dictionary.
+--.-..--...--...--. is found in the dictionary.
+--.-..--....--....- is found in the dictionary.
+-.. is found in the dictionary.
+---..-.-.-...--.---.---..-. is not found in the dictionary.
+--.....-.-..--.--.-.-.-....- is not found in the dictionary.
+--.-..-. is found in the dictionary.
+--.-..-.-.-......-....-.. is found in the dictionary.
+-.-. is found in the dictionary.
+--.-..-...-. is found in the dictionary.
+.-.---...-...---..--..-------........-.-.-.....-..-.---.--..--.-.-.--...--...-.--.--.-..-..----...-----..-.--------..--..---.--.....---.--- is not found in the dictionary.
+.-.-.-.----....- is not found in the dictionary.
+.-..-..---....--...----.--....--.-.---...-.--..-..-...-. is not found in the dictionary.
+.-.-.---..--..-.-..-.......----..-.-..-..-.----..- is not found in the dictionary.
+.-....-.-.- is not found in the dictionary.
+--.-..-...-..-.--. is found in the dictionary.
+...-.--..-..-..-.-...-.--..---.----.---....-----...-.-------...-..---.-----.--.....-.---.-.-.-.-----..---...-...-.--.---.-.--..-..---..--...--..--..-. is not found in the dictionary.
+---..----..........-----.-..-....---...------..---.-.-..----..-..--..--....-..---.---.-...----..-.---..---....-.--..--..-..-.. is not found in the dictionary.
+----.---.-..-..-----.-...-..---.-..--....--..---.--.....-...-..--..----.....---...---..--.-...---.-.--..-.--.----.-.---.......-.--......-..-.-.-----..-.-.....--.-.----..--..-..--.-...-.. is not found in the dictionary.
+--.-..-...-...-.--. is found in the dictionary.
+--..---..---..-.--..-.-.-.--....-.--..-...-.---.---.--.---..---.-....-...-..--.--.-.-.--..-.-----....--..--.....--..---.-.--.---.--...------.-..-.----..-.-......-.-.-.--....-------.-.--.-..--.. is not found in the dictionary.
+..-..---...-.------.....-.- is not found in the dictionary.
+--.-...-.-.-.. is found in the dictionary.
+--..- is found in the dictionary.
+--.. is not found in the dictionary.
+..-....-.----....----..-...--.-.--.-.---.-.-.-..-..-..-.--..--.-.--.-..----.-.----.----..-.- is not found in the dictionary.
+...-..-.-..---..--..--.-...-...--..-.-..-...-....-..-.- is not found in the dictionary.
+-....-.--..--....---.--.-.--.....-..--.--..-.-.-....--.--.--- is not found in the dictionary.
+--..---.-.--.. is found in the dictionary.
+--..-----.-.......-.--.-.-----.-.-.-.-....-..-....--..-.-.-......--...-.-...--..-.-.----..-.--....-.-.....-.-....--.----.--.-.-..---..-.--..-......--.. is not found in the dictionary.
+--..--. is found in the dictionary.
+--..--.-..... is found in the dictionary.
+..---.-.---.--.--.--.....----..---..-...-------...-.-.-... is not found in the dictionary.
+--..--...-.--. is found in the dictionary.
+...-.---..----------.--.--.---...---..-.....------.-.--...-.-...-..--.-..---.-.---..-----..-.-....-.-.-.-..---..--- is not found in the dictionary.
+--..--.... is found in the dictionary.
+--..--.....- is found in the dictionary.
+..-..-.-.-...--....---..---.---.---..--.---.-.-.--...-.-...-.--......---..-.-.--.--.-..--..---.--..---..-...--........-....-.--.--...--..----...--.-..-.-..--..-.-.-..-.----....---.-.--...---.-.--........-.----.--------....-.-..-.-.--.-- is not found in the dictionary.
+--..-.---.---. is found in the dictionary.
+-....-.-.-.--...----.-.--- is not found in the dictionary.
+-.------..---....--.-.. is not found in the dictionary.
+--..-.---.--..-.--. is found in the dictionary.
+-.-.-.-.-..--.-.-.--.-...-.-..---.-....-------..-.-....-..-.-.----.----.-..---..---.---.--.-...---..--...-.-...--.-.--..--.-.-..----... is not found in the dictionary.
+--..-.---..-.--. is found in the dictionary.
+--..-.---..-.-..- is found in the dictionary.
+.-.---.......--....-...---...-.--.---...---...-.-..-.--.-.-....--.--..---.-... is not found in the dictionary.
+-.--...----..-..-.----.----..--.-.-....--.-----.-.--...-.-.----.--.---..-...--..---.....-....-- is not found in the dictionary.
+--..-.-..-.----.-.----... is found in the dictionary.
+-..-..-.......-....--..-.-..-.-.----..--.---..-.-.-.---.--.-.- is not found in the dictionary.
+--..-.-..-.---...---..-.- is found in the dictionary.
+..---...-..-..--.--.-.---. is not found in the dictionary.
+--..-.-..-..-.-.---.-.. is found in the dictionary.
+--..-.-..-..-.-..-...- is found in the dictionary.
+---.-...--...-.......--. is not found in the dictionary.
+--..-.-..-...--..-.--------.-.---.-.. is found in the dictionary.
+--..-.-..-...--..-... is found in the dictionary.
+--..-..-.--..... is found in the dictionary.
+...----.--------.--.-..----...--.---.....---.-..-.-.-.-..-.--.-.-..---..--.---.--..-.---..-------..-.-----.-..--.--.------.-.. is not found in the dictionary.
+...--.-.-.. is not found in the dictionary.
+--..-..-.--.......-.-..-.-.. is found in the dictionary.
+--..-..-.--........ is found in the dictionary.
+--..-...- is found in the dictionary.
+--..-...--.-.-.. is found in the dictionary.
+--..-...--..--- is found in the dictionary.
+--.--.- is not found in the dictionary.
+-..-..-----.-.-.......-..-...--..--..-----. is not found in the dictionary.
+--..-...--..-. is found in the dictionary.
+..-.....--...--..-....-.-.-..---....----.---.-.-..-------..-.-.------..-.-.-.......-..-...----.- is not found in the dictionary.
+..--.-..-.--......--.--...--.-.....--..--......--.-.-..-.--....-..-.-.-.--...--.-.....-. is not found in the dictionary.
+--..-...--.....-. is found in the dictionary.
+--..-...-. is found in the dictionary.
+-.....---..---.....--.-......---.-.--..--..-.--...-.....-..-.....-...--...-.---.-...--..--.-...--.- is not found in the dictionary.
+--..-...-..--. is found in the dictionary.
+--..-...-..--..----. is found in the dictionary.
+.----.-..-- is not found in the dictionary.
+-.----...-...-.--....-.-..---. is not found in the dictionary.
+-.-...--..-.----.-.-..--.--..-.....-.-..---..-.-..-....-..---.-.-.-.----.--.---.--.-..--....-..-.-- is not found in the dictionary.
+--.--..-.-----.-----.....--------.--.-....-.--....... is not found in the dictionary.
+--..-...-..--..----.... is found in the dictionary.
+.------..---.--..--- is not found in the dictionary.
+.-.-.-...-.--.-.-.-.....-.--.-.-.---...-.----..--..--.-..-.-----.....-..--...-...--.-.--.--.-.-.--.----.--..---.--....-.--.--.----.-.-..---.----.----.-..-.---...--.--.--.---..... is not found in the dictionary.
+.- is found in the dictionary.
+--..-...-..--..-.--. is found in the dictionary.
+-....-..-...-..---.----.--.------.------.-------...-..--.--.--..-.....-......-.-.-------..---....-.-.--...-.-.--....---.-.-...--.-.....--...--------..-.------... is not found in the dictionary.
+--..-...-..--.... is found in the dictionary.
+-.-..-.-.---.-..-..-....--..-...----.....- is not found in the dictionary.
+-....-.-...---.---....-....---.-.--....--..-----.-..----.--..--..-..-----..----..--.--.-- is not found in the dictionary.
+.- is found in the dictionary.
+--..-...-..--.....-. is found in the dictionary.
+...----.....-.--.--....-..--.---.--....--...-----.-.-.-.---..--.-.....---..-----.-- is not found in the dictionary.
+--..-...-..-.-- is found in the dictionary.
+--..-...-..-.-.. is found in the dictionary.
+.--..-..---.-.---.-.-.-...----...-..-------..---.-.---.--.-...---..-.-------..-....-.-.----....-.-.--....--.-.----.---.-..-----..-...---.-...-... is not found in the dictionary.
+--..-...-..-.-....--.-- is found in the dictionary.
+--..-...-..-.-....--...--..----.... is found in the dictionary.
+.-.----.---.....-.--.-..-..-... is not found in the dictionary.
+--..-...-..-.-....--...... is found in the dictionary.
+--...--..--.....- is found in the dictionary.
+..--.-.------.-....-.-..-.-...-.--.-...--..---.---..- is not found in the dictionary.
+--...-..-.---.-.... is found in the dictionary.
+....---.. is not found in the dictionary.
+--...-... is found in the dictionary.
+--...-...-... is found in the dictionary.
+-...- is not found in the dictionary.
+......-- is not found in the dictionary.
+--......---..- is found in the dictionary.
+--......-.-. is found in the dictionary.
+--......-.... is found in the dictionary.
+--.-..--...-----.-----..........-.-.-...-.----- is not found in the dictionary.
+--........ is found in the dictionary.
+---.-.-.-.-.------..---......---.----.---..-.--..-.----.-..--. is not found in the dictionary.
+--........---..... is found in the dictionary.
+...---...-.--.-.-.--...-.-.-------..--...-.-...-....---......---.----.....-..-.-.---.---..-.-.-.---..-.. is not found in the dictionary.
+--............ is found in the dictionary.
+-. is found in the dictionary.
+.. is found in the dictionary.
+--.-....-...-..----.---.-- is not found in the dictionary.
+-.- is found in the dictionary.
+-.---..-----...- is not found in the dictionary.
+-.--- is found in the dictionary.
+....--.-------.... is not found in the dictionary.
+-.---- is found in the dictionary.
+-.----- is found in the dictionary.
+-.------...--...-..... is found in the dictionary.
+-..--..-....--.....-.--..--.-- is not found in the dictionary.
+-.------....-. is found in the dictionary.
+.--.-...------------.-...--....-.--.-.-.......------....--.-.-...-...-.--...-..-..-.-....-.-..--.--.---.....---.----.--..---......-.-.--.-.-.-..--.--..-----.--.-..---.-..---.-..-.-.- is not found in the dictionary.
+-.-----...-.---.. is found in the dictionary.
+-...----.-..-..--.- is not found in the dictionary.
+---.... is not found in the dictionary.
+-.-----...-..--. is found in the dictionary.
+.-----..-----.--....--.... is not found in the dictionary.
+-.----..----. is found in the dictionary.
+...-.---....--.-------.----.-..-....----...-----.--.-.-.-...------...-..--..--..-.---.-..-..------..-..--.- is not found in the dictionary.
+--...--..--.-..-.--.--...-.-...-.---.-.---..--...---. is not found in the dictionary.
+---...---.-.--...----...---.-.--...........---..-..--..--.--. is not found in the dictionary.
+-.----.... is found in the dictionary.
+-.----....-...-.-..--..----. is found in the dictionary.
+-.----.....-....-. is found in the dictionary.
+-.----...... is found in the dictionary.
+.-.--.-..----......-.--.--...---..-..--..-..--.-.-..---.---.---.----.---.-..--------.-..-.-..---...-..--..-..-- is not found in the dictionary.
+-.-.-----.-..---------.-----.-....- is not found in the dictionary.
+.-.--..--.-..-.--..---..-..-.-..- is not found in the dictionary.
+-.---. is found in the dictionary.
+-..-..-..-...........- is not found in the dictionary.
+-..-...-.--- is not found in the dictionary.
+.-.--...----....-..-.-.-.-..-.....----.---..--...-.--.-.--..-.--.-.-.---.--.-- is not found in the dictionary.
+-.---.-- is found in the dictionary.
+-.---...- is found in the dictionary.
+-....-....-.-.-.-.--...-----..----.---...----.-..--.--.---------.-.-.-. is not found in the dictionary.
+-....-.--...---.--......-....-..-------..-..-.-.-.-..---....-------.-----.....-----.--.-..--..--....-.--....-........--.--.-.---.-------....--...--..-.----.--------..--..--....-.-.-.--.-..-........-.....-.---.--.---...-.---..------.-.-.-.-.....--..-..---.-..--..--.--.....--.----.--...---.---..--..---.-----.-...--.----.-.....-.-.-....--...-.-.-------.--.-.-.--..----...-....--.-.------..-.--.-.-- is not found in the dictionary.
+-.---...-..-.. is found in the dictionary.
+.--..-.-.-..-.-.-.-----.-..--...---........-.-.-..----....-....-----.--..-.-.--.---.....-..--....--.-... is not found in the dictionary.
+..---.-. is not found in the dictionary.
+-.---.... is found in the dictionary.
+-.-.---------..--.-.-...-...--.----..-.....-...-----....-.-.--..-.-.-..--..-.-....--......- is not found in the dictionary.
+-.---.....-..- is found in the dictionary.
+---.-.....----.-..-.--.-.-..-.........-----..-...-...----..---.-.-...---..--.-.-..--..---...--...-------.--.-..-......-.-.---.-.-.--...-.. is not found in the dictionary.
+-.--.---.-- is found in the dictionary.
+-.--.---.---. is found in the dictionary.
+-.--.---.--... is found in the dictionary.
+-.--.--...-...- is found in the dictionary.
+-.--.-. is found in the dictionary.
+-.-..----...-.----..-..-.-.-.-..---.....--...--...-.--...----.....---.-.....--.-.-.-..---.--.-..-...---.-.-...-.----.--.--.--.--...-.-.-.. is not found in the dictionary.
+-.--..- is found in the dictionary.
+-.--..-.-.... is found in the dictionary.
+-.--....-... is found in the dictionary.
+-.-...-...-.----....---..-....-....---...-.-..--...-..-.-.---.-.-..--.--..---...-.--......-..----.----.---.--...------.--...---..-.--...--..-.-.-..-.- is not found in the dictionary.
+..-.-....--.--.-.-.--.--.-..---....-..--.-..--...-....-..-.--...-- is not found in the dictionary.
+-..-...-..-.--.-.-.-..--...--.-----.-.-.-.-.--.--..-....--.-.---...----...--..--.....-.---.....----...----..---.-...--.. is not found in the dictionary.
+----- is not found in the dictionary.
+. is found in the dictionary.
+-.-....-.-...--.-.-.-. is not found in the dictionary.
+-.--....-...-----.--....-... is found in the dictionary.
+..---..--.--.......---..----..--.-.....------.....---.--..-..-...-..-.-.---....----.--.-...--...-..-.--------..--...-----...--........-----.-.-.--.-.-.-.------....-.-.---..-...--.--.-.-----.---.---.-.......--.-..-.---..-.-- is not found in the dictionary.
+-.--....-...---.---.-.--....-... is found in the dictionary.
+.-----.---.......-.--..-.-.-- is not found in the dictionary.
+-.--....-....--..-........-.-......-.-.-.- is found in the dictionary.
+-.--....-....-..----.-..-.-......--..--.-.......-.--. is found in the dictionary.
+.-.-.---..----.-..-.....-.-...--..--.---.--.....-.---.--..-.----..- is not found in the dictionary.
+-.-..--....--- is not found in the dictionary.
+-.--....-...... is found in the dictionary.
+-.--..-.....-.......-.-.-..--.-..---..-.....-. is not found in the dictionary.
+.--.-.-...----.-...--..-....---.....-..-..........--.----.-.----- is not found in the dictionary.
+.--..-.. is found in the dictionary.
+-.--....-......---..-.-.-.-..-.-......-.-.-.- is found in the dictionary.
+-....-.-.---..-..--..--......---... is not found in the dictionary.
+-.-. is found in the dictionary.
+....---..-.....-.---.---...-.--.---.----..-....---.-.--.-..-..-......----...-----.-.-.-..-.-.---.-.---.-..--..---.-.--.---...---...-..---...-.....----...-----....------.....-....-.- is not found in the dictionary.
+-.-.-----------. is found in the dictionary.
+-.-.-------..--...-.-..--..----. is found in the dictionary.
+-.-.-------..--...-.-..--..----.... is found in the dictionary.
+--..----.-.--.--.-.-....--.-.--..--..-.----..-------.-..--..-.---..-.-.-.---.--.--.---.-..----.--...--..---.---.--..----..-.-----.-...--.-.-.......----..-.....---.--...----....--..-.- is not found in the dictionary.
+--.-...-...----..---..-...-..-. is not found in the dictionary.
+-.-.------.....-..--..----. is found in the dictionary.
+-.-.------.....-..-.. is found in the dictionary.
+-.-.------.....-..... is found in the dictionary.
+-.-.-----.--.----..-.- is found in the dictionary.
+.-..-.-...-.--.-.--.--...-.. is not found in the dictionary.
+.-.--------....-.-...-....-.-.. is not found in the dictionary.
+-.-.-----.--.----..-.-... is found in the dictionary.
+.-..--........----.-.--.-...-.-.. is not found in the dictionary.
+-.-.-----.--.---.... is found in the dictionary.
+-.-.-----.--.---....-.. is found in the dictionary.
+-.-...-..--......--..-...----..----.--..----..--..-.-.-..-.--.....-.---.-..-.--.---.---...---.------...-.. is not found in the dictionary.
+-.-.-----.--.-.-- is found in the dictionary.
+-..-.-.-....--..-.--.--..-....-----..---..-.........---.-------.....--.-- is not found in the dictionary.
+--.-..---.-.-. is not found in the dictionary.
+-.-.-----.--..-...-. is found in the dictionary.
+-.-.-----.--..-...-.-........ is found in the dictionary.
+-.-.-----.--..-...-..- is found in the dictionary.
+..--.-..-.-.----...-. is not found in the dictionary.
+.--..-.-.-.-.----...-.--...-...-. is not found in the dictionary.
+-.-.-----.--..-...-..-..--.-- is found in the dictionary.
+.--..-----....--.--......---.....-.-.-..-.....-.--.-...---..- is not found in the dictionary.
+-.-.-----.--..-....-.-..--.-.. is found in the dictionary.
+..-.-..--..------.---- is not found in the dictionary.
+-.-.-----.--...--.-.. is found in the dictionary.
+-.-.-----.--...--..-. is found in the dictionary.
+-.-.-----.--....-...--..----. is found in the dictionary.
+.-.--.-.---.-......---..-.....- is not found in the dictionary.
+-.--- is found in the dictionary.
+-.-.-----.--....-....-. is found in the dictionary.
+-.-.-----.--....-....-.--. is found in the dictionary.
+...-..- is not found in the dictionary.
+-.-.-----.--....-....-.... is found in the dictionary.
+-.-.----.--.....-..----. is found in the dictionary.
+-.-.----.--.....-..----.-.-.----.-.-.---.-.. is found in the dictionary.
+-.-.----.-.-.---.-.. is found in the dictionary.
+.-..-----.-..--.--....------.. is not found in the dictionary.
+-.-.----.-.-.---.-...-...-.. is found in the dictionary.
+-.-.----.-.-.---.-...-....-. is found in the dictionary.
+..---....---....--..-..-...-.--..-.--..-.---.-.--..----...-.---. is not found in the dictionary.
+-.-.----.-.-.---.-...-....-.....--..--.-..... is found in the dictionary.
+-.-.----.-.-.---.-....-..-..---.-- is found in the dictionary.
+-.-.----.-.-.---.-..... is found in the dictionary.
+-.-.----.-.-..-...- is found in the dictionary.
+-.-.----.-.-..-.... is found in the dictionary.
+.---.-----..-.-...-.--.-...-.---..---..--..-.--.-.--....---.----.-----.----...--....-.-..-.--..-.-- is not found in the dictionary.
+-.-.----.-.-..-....-.....----. is found in the dictionary.
+....---------...-.-.-.-.-.- is not found in the dictionary.
+---..---....------.....-......----...--. is not found in the dictionary.
+-.-.----.-.-...--.-... is found in the dictionary.
+--....----..------.--..-...--.-.---.---..-...-.--.--...--.-...-..-- is not found in the dictionary.
+-.-.----.-.-...-.-..-..-.-.-.-.-- is found in the dictionary.
+..-..-...-.---...--.-.-..-.--..--.-.-.---------..---..-.---.--.---....-........-.-........-...--..---..--.-.........-----..-.-...-..--....--..-------- is not found in the dictionary.
+.------.--...-.- is not found in the dictionary.
+-.-.----.-.-...-.....--. is found in the dictionary.
+-.-.----.-.-...-.....--.... is found in the dictionary.
+-..-..--.-..-.-...--.--. is not found in the dictionary.
+.-------...-..-..-.---..-..---....------...--.- is not found in the dictionary.
+-.-.----.-..-.-.-.-.. is found in the dictionary.
+-.-.----.-..-...-. is found in the dictionary.
+--.-.-.--..--.--.-.....---.-..-...-..---.-.-.-.-.-.--... is not found in the dictionary.
+-.-.----.-....-..----..-.-..... is found in the dictionary.
+-.-.----.-....-..----.... is found in the dictionary.
+-.-.----..---..--.-.-.-..----. is found in the dictionary.
+-.-.----..-..-- is found in the dictionary.
+-.-.--....----....-..---.-..-.---.--...... is not found in the dictionary.
+-..---..--.--.-.-.-.-.----...-....-.---..-----.------....--.-..--........-.--.---..-.-.---..--.---...--.---.----.-....----....-.--.---.-..-..-..- is not found in the dictionary.
+--...-..--------..-.--- is not found in the dictionary.
+-.-.----...-...--...-.-.. is found in the dictionary.
+-.....---..-..-.--....-.---.---........--.-..-----....-. is not found in the dictionary.
+---.-----....-.-...-.......---.-.....-----..-...-...-......-..--.-..-.--...-..-.--.-..--.....-.--..-..-...-----.--...-..-.--.--..---.---.-..-.--.--...-...-....--..---..-..-.--..-.-.-..-.-.-.--.....--..-.--..-.-...-.-.-.---.--.-..-......--...--.---.--.-..---.-.-.-...-....... is not found in the dictionary.
+-.-.----...-...--...-.-..--..----. is found in the dictionary.
+-.-.----...-...--...-.-..--..----.... is found in the dictionary.
+-.-.----...-...--...-.-..-.. is found in the dictionary.
+..--........------. is not found in the dictionary.
+-.-.----...-...-..-.-.-.. is found in the dictionary.
+...-...- is found in the dictionary.
+-.-.----....-.-..-..-. is found in the dictionary.
+.-..----..----------..--. is not found in the dictionary.
+-..-.....-.-...---.--.--.--..- is not found in the dictionary.
+-...--.---.-...--..-.-.-.----..---.-.--.--.-.---.---.-.-...-.----.-....-......--.--.--.----.--...-..--...--.--.-..-----..---.---.-....--......---.-..-.-------..-....-.--..--.-...----.-...-.....-...-.--.--.---.----.......-..-.----..-..-..-.......--.-....-...----..-----.-........--..-.---..--.......-.-...-.--.-..-..--.--.-..---.----.- is not found in the dictionary.
+-.-.----....-.-..-..-.-... is found in the dictionary.
+-.-.--.-.-..-.--..-..--.........-....-------...-...--......---.-----.-..---...-.-...--....-------.--..--..-..-.---...-.-.---.--.-- is not found in the dictionary.
+-.-.----....-.-..-..-..-.. is found in the dictionary.
+-....-...-..-.--..--.-...- is not found in the dictionary.
+-.-.----....-.-...--.-.-..----. is found in the dictionary.
+.--...--.--..----.-..-...-...-.---..--....--.--....--.-----.-.--.-..--.-.-.-.--.- is not found in the dictionary.
+..----.---.-.-----.----..--..-........----.-..-....--..---.-.---..-.-.-.- is not found in the dictionary.
+...-.... is not found in the dictionary.
+.---...--.-.--.---.-.-..------...---.-...-....--..-....-.....--..-..-....-....-.-..-...- is not found in the dictionary.
+-.-.----....-.-...--.-.-... is found in the dictionary.
+-.-.----....-.-....-.- is found in the dictionary.
+-.-.----....-..-.-... is found in the dictionary.
+-.-.----......-....-. is found in the dictionary.
+..-..-.--.-..--....-.----.-.--....----.--.----..-.--..-..-.-.--...-..---....-.-........ is not found in the dictionary.
+----..----..-...-..-...--.-.-...-.-...--....--....----.---..-.-.-.....-.----..-------...-..-.-... is not found in the dictionary.
+--.-.-.---....--....-...-.-....-.--.--.-..-..-.-.-.-.--.-..---.--.--..----.-----.--.-.......----.-----..--...-..---....-.-.--.......-.-.-...-..-..--.----...---..-- is not found in the dictionary.
+-.-.----......-....-..-.. is found in the dictionary.
+-----.-...-..----.-.------.-..-.--.....--.--.-...-------.-.....-.-..--. is not found in the dictionary.
+-.-.----.........-.-.- is found in the dictionary.
+--..----.-.-.-.-. is not found in the dictionary.
+-.-.----.........-.-.-.-.-.-- is found in the dictionary.
+.-.-....-.-..--.--- is not found in the dictionary.
+-.-.---.--.-.-- is found in the dictionary.
+-..-..-.-----..-.-.---...-.-....-.--.....-.-.---.-..-.-.---.......----.-.-...-...---.....---...---.......-----------...-..--.-..--.---..-...--.--.-..--...-...-...---.--.--.-..--.. is not found in the dictionary.
+.-..-.---.--..--..-..-.---.-.-..-......-...-.--..-----.-..--.-..--.--.-.. is not found in the dictionary.
+...--...-.----...------....---.--. is not found in the dictionary.
+-.-.---.--.-.--..-.....-..-..---.---..-......-.--.--.--.. is found in the dictionary.
+---.--....--..-.-..-..-.--.---.-. is not found in the dictionary.
+-.--.....----..--.-.-.-..---....---...--..-.....--. is not found in the dictionary.
+.--..-..-.---.-..---....-......--.--...--.--..-.-.....-..--.--..---.-.....----..-.-....-.-----.-.-.--.-..--.--.-----.-..-..---......-- is not found in the dictionary.
+-.-.---.--....... is found in the dictionary.
+-.-.---.-.. is found in the dictionary.
+-.-.---.-... is found in the dictionary.
+..-.-.-..--...----.....--....-.-.....-.---...-...---..--.--.----.--..---.-.---..--..----..----.-.........-.-....--.----...-.--.--..-- is not found in the dictionary.
+-.-.---.-...-...-.-.-..----. is found in the dictionary.
+-.-.---.-....----.... is found in the dictionary.
+.--..---.-...---.---.---.-.-..-....--.--.-. is not found in the dictionary.
+-....--...--..-----..--...-...-.-.-- is not found in the dictionary.
+-.-.---...-.-.--.-...--.--....----.- is not found in the dictionary.
+-.-.---..--.- is found in the dictionary.
+-.-.---..--.-..-.... is found in the dictionary.
+-.-.---..-.-..-.. is found in the dictionary.
+-...--.-...-.-...--..--.-.-..--..--..-.- is not found in the dictionary.
+-.-.---..-....-.--.-- is found in the dictionary.
+.....-.---.-.-.-..... is not found in the dictionary.
+-....--.--..--....-----...-..---......-- is not found in the dictionary.
+-.-.---....-. is found in the dictionary.
+...-.-.....---.....--.-.---...-.-...---..--.-..-.......---...--- is not found in the dictionary.
+-.--...-..-..-.-.-.-..-.-..--.-..---.----.-...-.......-..-.--...-...-....-........--..---..---.--.-...--.---.----..-..-..---..-.-. is not found in the dictionary.
+-.-.--.--..-.-.------ is found in the dictionary.
+-.-.-.-- is found in the dictionary.
+..-...-.-...-..--..-.-.. is not found in the dictionary.
+-.-.-.--..- is found in the dictionary.
+-.-.-.--..--....--..-.-...-.- is found in the dictionary.
+..- is found in the dictionary.
+-.-.-.--..-.-.. is found in the dictionary.
+-.----..-........-....----...-.-.-..--.......--.---..-....--..- is not found in the dictionary.
+-.-.-.--..-..-.-....--..-.-...-.- is found in the dictionary.
+--.---.-...-.--.-.-.-.-....-..--.-.---.--..-.. is not found in the dictionary.
+-.-.-.--..-... is found in the dictionary.
+-----.--...--....-.-.-....--.--.-....-....----..-....--...--.----..-.-. is not found in the dictionary.
+--.--...--..-.-.--.-..-.--..-..... is not found in the dictionary.
+.-.-.-..-.--.---..---....-.-.---....-..------...--.----.--.-.....-..---..- is not found in the dictionary.
+-.-.-.--..-....--..-.-.....-...-.-. is found in the dictionary.
+-.-.-.-.......---.-.- is found in the dictionary.
+-.-.-.. is found in the dictionary.
+-.-.-...--.---.-.--- is found in the dictionary.
+..-.----..-.....--.-.--- is not found in the dictionary.
+-.-.-.....-.---.-..-----....... is found in the dictionary.
+...--.-...---..---.--..--.----.--..-.....--...-.---.-. is not found in the dictionary.
+.-...-.-.---.-.-..-...-.---.--.-..-----..-..-- is not found in the dictionary.
+-.-..-- is found in the dictionary.
+-.--....-.--. is not found in the dictionary.
+.--..--..---.-....-.-.-.--.....--------.--.-.-.-.----...-...-..-.---...-...----.-.-.-...-..-.-.--.-...-.-----.-..-.-.---.-..--------.----.- is not found in the dictionary.
+--..-.----..--.------..---..---..--.-..---.-.-.-..-.-.-.. is not found in the dictionary.
+-.-..--. is found in the dictionary.
+.-.--.---.--. is not found in the dictionary.
+-.-..--.-.---- is found in the dictionary.
+...---.----..----.-.--.--.---.-..---.-----.--.. is not found in the dictionary.
+-.--.-.......-...-.-.. is not found in the dictionary.
+...-...-..-...--.-.-.-..-..--.....---.-.-..-.-..--...-..---.--..-.---.-....--- is not found in the dictionary.
+-.-..--.-.-.- is found in the dictionary.
+-.-..--...- is found in the dictionary.
+-..-..--.- is not found in the dictionary.
+-.-..--....--..- is found in the dictionary.
+.-.-..---....-.-.-.--..--.-..---.-.--..--.-.--....-.---......--. is not found in the dictionary.
+-.-..--.....--.-.-..----.... is found in the dictionary.
+-.-..--.....-...-----.-. is found in the dictionary.
+.--..--.-..--.--..-...--.......---....-.--.-..--.--.-.-.--..-..--.--.---..-.--.-..--...--.-...--...----.---.-.-.-...-.---..-.--.--......-----...--.---..--..-.--..-.----.....-....-- is not found in the dictionary.
+-.-...---....-.-....-...------.----.---...--..----.---------..-.....-.-..- is not found in the dictionary.
+-.-..--.....-...--. is found in the dictionary.
+.-.---.-...--..-.--.-.--.-...-.-.--.-...---.....-..-----........-----.-.-------..--.--.---.--.-.-...----.-.---..--..-..---.-......----.-.--.....----.--.....--...--..--.--.....-..--.-.-....----.-...-.- is not found in the dictionary.
+.. is found in the dictionary.
+-.-..--.....-...--.... is found in the dictionary.
+-- is found in the dictionary.
+-.-..--......-.---.-.--... is found in the dictionary.
+-.-..--......-..----. is found in the dictionary.
+-.-..--......-..----.... is found in the dictionary.
+....-.---.-...-..---.....-..-.-.---.-.-..-..-..-.---.-.-....-..---......--.--.-..-.-..-..-.-..-.-------.---..-...-.-.-...--..--...-------.....-.....---.-...---------- is not found in the dictionary.
+.--.-- is not found in the dictionary.
+-.-...----....-..-..-..-. is not found in the dictionary.
+-.-..-.--.-..-.-.. is found in the dictionary.
+--..-.-.--..--..-.-- is not found in the dictionary.
+---. is not found in the dictionary.
+-.-...-..- is not found in the dictionary.
+-.-..-.--..--......-....-...... is found in the dictionary.
+.-.--..-..--..--..-..-...-......-...-.-.-..-.-.....---..-..-.-.-.--. is not found in the dictionary.
+.---..........--..-..--......-..-.........-----.---..--..--...-..-...-.-...-..---...-.....--..--.--.-.-..--.-.--..--.-.-..-.--...--.----...-.-.-.-.-----.--.....-.--..--.--.-.-.------...-.--..---....-.--...---.--..--.-.-..---.-..-----....-.-.--.-...-.--.....---....--.---...--.-.-......--.-.-..--..--.---.-. is not found in the dictionary.
+-.-..-.-.. is found in the dictionary.
+-.-..-.-..-. is found in the dictionary.
+-.-..-.-..-.-.-- is found in the dictionary.
+-.-..-.-..-.-...-.-...--. is found in the dictionary.
+----- is not found in the dictionary.
+-.-..-.-..-.....-. is found in the dictionary.
+.------ is not found in the dictionary.
+..-..--.--...-.--..--.--..---..-...----...-.-.---.---..-.--..-.. is not found in the dictionary.
+.-..-....--..--...-.-....---. is not found in the dictionary.
+-.-..-.-...-.. is found in the dictionary.
+.-..---.-.---.-.-.--.-.--..---.-......--.-. is not found in the dictionary.
+-.-..-.-...-...-.. is found in the dictionary.
+.-...---....-...-..---...-.-.-.--..-- is not found in the dictionary.
+-..--..-.----.-..----...-------...-..-..--...-....-.-.---..--...----.----.----.-.--. is not found in the dictionary.
+-.-..-.-..... is found in the dictionary.
+..-...- is not found in the dictionary.
+-.-..-..-...-...-.-. is found in the dictionary.
+--..-.-..-.-.- is not found in the dictionary.
+-.-..-...--. is found in the dictionary.
+-.-..-...-..-.. is found in the dictionary.
+-.-..-...-..-...----. is found in the dictionary.
+-.-..-...-..-........ is found in the dictionary.
+..--..-... is not found in the dictionary.
+-.-..-.... is found in the dictionary.
+.-.-- is not found in the dictionary.
+-.-..-....-.-.-.- is found in the dictionary.
+-.----..------...----.----. is not found in the dictionary.
+-.---.-.--.--.--.--..-.-.. is not found in the dictionary.
+-.-..-....-.-..-..-.-- is found in the dictionary.
+--..--..-.....-..-.... is not found in the dictionary.
+-.-..-....... is found in the dictionary.
+-.-...--.--...-. is found in the dictionary.
+-.-...--.--...-..-.. is found in the dictionary.
+---.....--..-...- is not found in the dictionary.
+.....------.--.-.....-.-.--....-..-....-.-.--.--..---...---..----.-.-..--....--.-. is not found in the dictionary.
+-.-...--.-.-.-------....--..--.-..... is found in the dictionary.
+.-..--..---..-...-..--.-....--.---.---.--.-...--.-.--....-..-..-.--.-.-..---..-- is not found in the dictionary.
+...-..--.-..........-.-..---...----.-..--.--..--.-.-------..----.-- is not found in the dictionary.
+-.-...--.-.. is found in the dictionary.
+-.-...-.- is found in the dictionary.
+.---..-..-...---.-.--.-------...-...--.-..---..-...--....--..--.-.- is not found in the dictionary.
+-.-...-.-..-..-.- is found in the dictionary.
+-.-...-... is found in the dictionary.
+-.-...-...------ is found in the dictionary.
+-.-.....---....-. is found in the dictionary.
+-.--.----...-..----..------.---.--.-.--...--.-..---.-..--..-......--.---..----....-..-..--.-.--.--.-.---...-----.-.-.--.-.--........--...-.....----.--..---..-.---.-..--....-..---.-.--....-....-- is not found in the dictionary.
+--.....-.-..--.-.--..--.-..-.---...----..-----.-----..---. is not found in the dictionary.
+-.-......--.--.. is found in the dictionary.
+-.-......--.--..-....-. is found in the dictionary.
+-.-......--.--...-.--. is found in the dictionary.
+--.---.....---...----.--.....--.-.-.-..-...--..--.-.--...-.-.-.. is not found in the dictionary.
+-.-......--.--..... is found in the dictionary.
+-.---...-.-.....-..-.--........-.---......--..-.----..-.-....-...--..---.-......---.--..-.--...--.--.--...---.-..-...-..-.-...------.-.-....--. is not found in the dictionary.
+...-...--- is not found in the dictionary.
+.. is found in the dictionary.
+--...---.---...--.-.--....-..-..-.-.-.....--..-.---.....-..---.-..--..-.-.--..--........- is not found in the dictionary.
+-.-......--.-...-..- is found in the dictionary.
+-.-......-. is found in the dictionary.
+-.-......-.-.- is found in the dictionary.
+-.-......-.-.-.- is found in the dictionary.
+-.-......-.-.-.-... is found in the dictionary.
+...-.-.....--.--....-....-.......-----...--.-...---.-....-..------....-----.-.--.-..-..----....---....-.--...-..-.-.....--..--..---..----.-..--..-..-....----.---.---.-.--.---.-.--.-.-......-.... is not found in the dictionary.
+.---.----.-..-.----...-.--...--..---.-.-.-..-.-.-.... is not found in the dictionary.
+-.-......-.-.-.-.....--- is found in the dictionary.
+--... is not found in the dictionary.
+-.-......-.-.-.-.....---... is found in the dictionary.
+-...-..---- is not found in the dictionary.
+-----.---...-...-.-.-.----. is not found in the dictionary.
+-...---.--.-.-.-.--... is not found in the dictionary.
+-.----......-.-..-..--.-...-...-....-...-.---.---..----..--..--- is not found in the dictionary.
+.-......---.-.---.-..-.--.-.. is not found in the dictionary.
+-.-......-.-.-..-. is found in the dictionary.
+.---..--.-----..-..-----.--------.--...-.---.---..-.-..--.--..-----..-.--.-----...-.-.-.- is not found in the dictionary.
+--.----...---...-..----.---.. is not found in the dictionary.
+-.-......-.-..--.-.-..-......-..-.-.... is found in the dictionary.
+-.-......-.-...-...-.--.. is found in the dictionary.
+-.-........--. is found in the dictionary.
+-.-........--.... is found in the dictionary.
+-------.--.---...-.-...---.-.-..-----.--.-..---.-.-..---...-..-.---....---..--.---..-..---....-..-.-.-..------ is not found in the dictionary.
+-.-..----.--.--.--.-- is not found in the dictionary.
+-.. is found in the dictionary.
+-..- is found in the dictionary.
+---..---.--..-.--.-----.-.....--.-........---..-...-......-.-.------.-.--........-.- is not found in the dictionary.
+-..---..---....-.......- is not found in the dictionary.
+-..--- is found in the dictionary.
+..........-.----.-.-.-..--.--.-.---.--..-----.-..--.--. is not found in the dictionary.
+-..-----.-..-. is found in the dictionary.
+-..-----.-..-.....--..-.-.....-...-.-. is found in the dictionary.
+-..-----...-. is found in the dictionary.
+-..---.---. is found in the dictionary.
+..-.--.....-.-.--.---...-.---.-..---..----...--.---..-- is not found in the dictionary.
+.-..-....-.-.--..-.-.....-.----.----.-...-.. is not found in the dictionary.
+-..---.---.-..--. is found in the dictionary.
+-..---..-.--. is found in the dictionary.
+-..---.... is found in the dictionary.
+-...-.-----.--..--.---.-..---..--..---..---.-....---..-.---.--.---....-... is not found in the dictionary.
+-.-.-.--..-..-... is not found in the dictionary.
+-..--. is found in the dictionary.
+-..--.-...-.. is found in the dictionary.
+.-..-----..--..---.-.-..--.-...-.....-.-.----..-..--.-.--.-.-......-....---..-....--.---.--.-.-.-..-......-...---.--.-.---...-..-.-.-.---.-.--....-.-..---.-...----..-..-.-.....-....--.....------.--.---.-.-...--.-.-----....-.... is not found in the dictionary.
+-.--------.-.-....- is not found in the dictionary.
+-..--...- is found in the dictionary.
+--....---..--..---...-.-.----...-..----.-...-----...--..--.-.---...---...-.--..-..-.-.-.-.--..---..-.........-.- is not found in the dictionary.
+-.-.-.-......-..--..-.-...-----.---.-.-.--..-...---.-...-...---....--.-.---..--.-....-.-...-..-.--.----...--.------..-----..--...--..-.-.-.--......--.-.--....-.---.....---.-.-.--.--.---...-. is not found in the dictionary.
+....-------...-. is not found in the dictionary.
+-..-.-..----.-----..-..-..---......---....--.--.-...--.--..-.-..-..-.-...-.-.....--..--.-..-.. is not found in the dictionary.
+.---....-.--.-..--.---.........------.--..---------.... is not found in the dictionary.
+--. is found in the dictionary.
+-..--...-... is found in the dictionary.
+..----.....-..---...-.---.--..----..-.-........-.----.--..--. is not found in the dictionary.
+-..--.... is found in the dictionary.
+- is not found in the dictionary.
+-..--....-.---.--. is found in the dictionary.
+.-.....-....-....-..----..--.----..------.....-..--.-..-.--..-- is not found in the dictionary.
+-..--.----.-...-....-.--......-.-.-.--.-........-...-.- is not found in the dictionary.
+-..-.-----.-.-.- is found in the dictionary.
+-....-.-----.--......--....-..--..-.-.... is not found in the dictionary.
+-..-.-----.-.-.-..-.--. is found in the dictionary.
+-.-.-. is not found in the dictionary.
+-..-.-----.-.-.-... is found in the dictionary.
+-..-.---..---..-.-..-.-...-..-.-- is found in the dictionary.
+-..-.--... is found in the dictionary.
+-...---.-...--.--.-.---...-...-.---.----..-.-.- is not found in the dictionary.
+.. is found in the dictionary.
+---.-- is not found in the dictionary.
+-..-.-.-- is found in the dictionary.
+-..-.-.-. is found in the dictionary.
+-..-.-.-.-.- is found in the dictionary.
+-..-.-.-...-.--. is found in the dictionary.
+--.---....--..-...... is not found in the dictionary.
+-..-.-..-.-.-.-- is found in the dictionary.
+-..-..-- is found in the dictionary.
+-..-..--.....- is found in the dictionary.
+-..-...-.. is found in the dictionary.
+----.----..---.....--.-.-.----...--... is not found in the dictionary.
+-..-...-....-.--. is found in the dictionary.
+-... is found in the dictionary.
+-...-- is found in the dictionary.
+.-..-...--.---.-..----. is not found in the dictionary.
+-...------....-.-..--. is found in the dictionary.
+.-.-----....- is not found in the dictionary.
+-...----..-.-- is found in the dictionary.
+-...----.... is found in the dictionary.
+-...----.....-. is found in the dictionary.
+---.. is not found in the dictionary.
+-...----.....-.... is found in the dictionary.
+-...---.-..-.---.--... is found in the dictionary.
+..-.-.----..-----.-.-.---...---.....----..--.--.--.....---..---.....------.------.--.-----..--.-.-...-...-.--....--..-.-.... is not found in the dictionary.
+-...---..--.-.. is found in the dictionary.
+-...---...........-.-.- is found in the dictionary.
+......---..-...--.-..---..----.---...-...-----..-.-----.-----.-----...--. is not found in the dictionary.
+-...--. is found in the dictionary.
+....--.--...--------.-- is not found in the dictionary.
+.....-.-.---. is not found in the dictionary.
+-...--.- is found in the dictionary.
+------..--..- is not found in the dictionary.
+-.-- is not found in the dictionary.
+..-.....-...----..-..-. is not found in the dictionary.
+.-..-.--...-.-.----.-.-.-.---.....-..-.-.---..-.-...-.----.......-.-.- is not found in the dictionary.
+-.--. is not found in the dictionary.
+.----.---...--.---..----..------.-.-----...-.--..-..-.-..-....-.-.-...--..-...-...--.--.-.--..-.---...--..-...-----.--..-..-....-.-.-.---....--...........--.--.--.-----.-- is not found in the dictionary.
+-...--.--.-..-.-..-. is found in the dictionary.
+-...--.--.-..-.-..-.-...-.-.--.....-....... is found in the dictionary.
+...-.--.....-.-...-.--.----.....----......-..--...-.-.---.-.-.-..------.-.-...--.--...-...-.-.--..--.---.-.-----....-.-..-....--.. is not found in the dictionary.
+-...--.-...-.-..-....--.- is found in the dictionary.
+- is not found in the dictionary.
+-...-.-- is found in the dictionary.
+-...-.---. is found in the dictionary.
+-...-.---.--..--..-.. is found in the dictionary.
+------.-..-....--.-.... is not found in the dictionary.
+---.-.-..-.-.--.--...-.-.-...-.-..-..---...----.------....-..--.....-.-.-....- is not found in the dictionary.
+-.--.--..-...-.-..-.----..-----..---..-...--....-...--...-.-.-...--....---...--..--.-.-.-.-... is not found in the dictionary.
+.--...-.--..-.-----......---...-....-...-..-..-.--.--.----.-..-.----..----.---.-.-.-.-.-.---..-..-..-.-...-.-...---..--.- is not found in the dictionary.
+-...-.---.... is found in the dictionary.
+.-...-...-- is not found in the dictionary.
+--.. is not found in the dictionary.
+....-..---.-.-.---..------.-.--.-..---..-. is not found in the dictionary.
+-...-.-. is found in the dictionary.
+-...-.-.-- is found in the dictionary.
+------------.-..-....---..-.....-..-. is not found in the dictionary.
+-...-.-.-.- is found in the dictionary.
+-..-....-----.- is not found in the dictionary.
+-...-.-..-.-- is found in the dictionary.
+-.--.-...-.-.-...-..-.-...-..---..- is not found in the dictionary.
+-.....-..-.-..-...-...-...----.----.----..-.-...-.-..-...----..------- is not found in the dictionary.
+-...-.-..-..--.-.- is found in the dictionary.
+-.-..---.--.-.-..-..-.--.--..--.--.---...-- is not found in the dictionary.
+.-.--. is not found in the dictionary.
+-...-.-..-..--.-.-.-.. is found in the dictionary.
+-...-.-..-...-.-.. is found in the dictionary.
+-...-.-..-...-.-..--..----.... is found in the dictionary.
+-...-.-..-...-.-..-.. is found in the dictionary.
+-...-.-..-...-.-...-.--. is found in the dictionary.
+--.-.-...-.. is not found in the dictionary.
+-...-.-..-...-.-..... is found in the dictionary.
+-...-.-...-... is found in the dictionary.
+......--.-.---.----.....-.-..-......-.-.--..-..-.-...-.-.-.-.--..-.-.--...--.-.---..-.---..-..-.-..--....-....-.....-.......--...--.----....------.-....-.-----.--..-....-.---..--------..-.----.-....-.-..-.-- is not found in the dictionary.
+-.--..-..---.-----..-...-.--..--.-----.-----..-..-.-.-------.....-...-.....- is not found in the dictionary.
+-...-.-...-..... is found in the dictionary.
+-...-.-...-...... is found in the dictionary.
+...--.-...-.-..--.-.---....----- is not found in the dictionary.
+-...-.. is found in the dictionary.
+.-.----.--..-.----.--- is not found in the dictionary.
+.-.---.-.--....--..-- is not found in the dictionary.
+-..-.----.--.......-..-...-----..-..--..-.-..-.-.--..-....-.----.-..---.-.--.. is not found in the dictionary.
+-...-..--.-..-.--. is found in the dictionary.
+.-.-.-..-...-.-..--..-...-.----..-------....-.---...---.-.---.-.-..-.-..---.-..---..-..--....-.----..---..--..-.--..-.-....- is not found in the dictionary.
+-...-..-. is found in the dictionary.
+-...-...-..--.--.-.. is not found in the dictionary.
+..-.-.. is not found in the dictionary.
+..--- is not found in the dictionary.
+-----..-.-.--...-...... is not found in the dictionary.
+----...-....-.----.---...-----.-.---...-.-..-.. is not found in the dictionary.
+-...-..-.--..-.. is found in the dictionary.
+.-..---- is not found in the dictionary.
+-...-..-.--..-..-.. is found in the dictionary.
+-...-..-.--..-..... is found in the dictionary.
+-...-...-..-.. is found in the dictionary.
+-...-....--. is found in the dictionary.
+-.-.--.-..--..- is not found in the dictionary.
+-...-....-.-..--.-.. is found in the dictionary.
+....-----...-...--.-..------.-.-.-...-...-.-----.-.--.--...-.-.--.-.--..---. is not found in the dictionary.
+--..-.---.-.-...- is not found in the dictionary.
+------...---.---.-.-.----.--..-.---...----..-----.--.. is not found in the dictionary.
+-...-..... is found in the dictionary.
+.--...-.--..-..--..-----......-----.--...---..-......---..-.---... is not found in the dictionary.
+-...-.....---.--...-.--. is found in the dictionary.
+.--..----.-.-.---...-...--..--....-...-..-..-..-...-..---.-.-.--.----.....--.--....--...--.-.---.....-.-..-.-.-....------.-.-...-..-. is not found in the dictionary.
+.---...-.-- is not found in the dictionary.
+.-.-.----...--.----..--.-.-.---.--.-----.-------.---...-..---...-..----....-..-...---.-...----.-- is not found in the dictionary.
+-...-......--. is found in the dictionary.
+..--.-...-..-..-.-...-..-. is not found in the dictionary.
+-.... is found in the dictionary.
+.-.-..----. is not found in the dictionary.
+-.. is found in the dictionary.
+-....---..-.. is found in the dictionary.
+-....--.-.-.- is found in the dictionary.
+...--. is found in the dictionary.
+.---.-..-........----....-.----.--.-..-.---.-.--.-.-----.-.. is not found in the dictionary.
+-.....-.-... is not found in the dictionary.
+-....--.-.-.-.-.-.. is found in the dictionary.
+-....--.-.-.-.....-.-....-. is found in the dictionary.
+.-..-- is not found in the dictionary.
+...--.-.---..-----.----.--...-..-.--.-...---.-----...---..---.-.-.-.-.--.-..----..-.-. is not found in the dictionary.
+-.-...------.-..-..---....---..-.-.--.-.-.-.---....-..--..--....--....---...---.--.....-.--.-.--....-.....-...--.--.-..----.--...--..-..-....--..----...-..- is not found in the dictionary.
+.---....-. is not found in the dictionary.
+.- is found in the dictionary.
+. is found in the dictionary.
+---..----...-. is not found in the dictionary.
+--..-...-.-----..--...-.---.-...-.-......-..-..-...---------- is not found in the dictionary.
+-.---.-..-.--..-....-.--.----..---.------.-...---.---..-..-.---.--.----..-...-.-----..----..--..-.-----.---.--....---...-.-.----..--...-.---.-..-.-......-....-....-..-..--.--..-..-.---.-.--.-.-.-....-..-........--.--.....--....-.-.--.----...-....-.-..------.-..--.-..-.--.-.---------..-.-.----..--...--. is not found in the dictionary.
+-.--..---.-..------.--.-....-..--....-......--.-.-..- is not found in the dictionary.
+-....--.. is found in the dictionary.
+.--.-..-..-.---.-.....-..-.-.-----.-----..........-------.-..-..-.---.--.---....- is not found in the dictionary.
+-..-.-.--.-....---.--- is not found in the dictionary.
+-....--..-.-...-.-.-.-.-- is found in the dictionary.
+-....--..-.-...-.-.-....... is found in the dictionary.
+-----..--.---..----...... is not found in the dictionary.
+-....--..-..----.----.-.- is found in the dictionary.
+-.----.-...-----.-..--...-.-..-.----.---.-.....-..-..--------.-.-..-..-.-.-.-.....-.-. is not found in the dictionary.
+-....--..-..----.----.-.-... is found in the dictionary.
+-....--..-..----.--.-.. is found in the dictionary.
+-.-.--..---.....--....-.-.-.-...----....--.-....---.-.--.----.-..-......-..-.......----.--.--..-..--.-.-----..--.---... is not found in the dictionary.
+-....--..-..----.--..-.--. is found in the dictionary.
+-....--...-. is found in the dictionary.
+-....--...-.... is found in the dictionary.
+-....-. is found in the dictionary.
+-..-.-..-.-..--.------.-.-..-- is not found in the dictionary.
+-....-.------.-.. is found in the dictionary.
+-....-.---.--..-.-.----- is found in the dictionary.
+..-.---..--.-..-..-.--..----.-....-.-....-.-..--.-..-..--..--..---...-.-.---....---.-.-..--.-.------- is not found in the dictionary.
+-....-.--..-. is found in the dictionary.
+.-.-..-.-.--.--.-..- is not found in the dictionary.
+.--...-...------..--..-.........--. is not found in the dictionary.
+-....-.-.. is found in the dictionary.
+....-.....--.--.--.--.-. is not found in the dictionary.
+-.-..-..-.-----..--.-....-..-.---.-------.---.---.-.. is not found in the dictionary.
+-....-.-...--.-.-..... is found in the dictionary.
+-...--..--.--.-....-..-...-.-.....--...-....-.-..-.-.....---.---..-.-.-.-.----.-.--..- is not found in the dictionary.
+..---..-.-.-..---..--....-- is not found in the dictionary.
+-....-.-...--.-.-..........-..--. is found in the dictionary.
+..-....-..- is not found in the dictionary.
+-....-.-...-.--. is found in the dictionary.
+-....-.-....-.------- is found in the dictionary.
+-.--.---.-.------..----.-.-....-.--.-..----.- is not found in the dictionary.
+-....-..--..---.--. is found in the dictionary.
+-....-...--.-..-.--. is found in the dictionary.
+...-----.-.---.---.....-..-.--.-.-.-....-.--.-.-..-.---....-.. is not found in the dictionary.
+--....--......--.------...-.---...-.-.-.-..-.---..-.-.---..---...-..--..--.....-...-.--..--.- is not found in the dictionary.
+-....-...-. is found in the dictionary.
+---....--. is not found in the dictionary.
+...-.-..---.-.-.--..-..--.-.--....--.---.....-..--.-..-...-.--.-....--..-..--.--...-.--.--.....-.-..-...--..---..--.-.---. is not found in the dictionary.
+-....-....-.. is found in the dictionary.
+-....-....-.....-..--..-..-.-- is found in the dictionary.
+......------..--..------..-...---.-....----. is not found in the dictionary.
+.-....-..-...--..-..-- is not found in the dictionary.
+-....-.....-..--.-- is found in the dictionary.
+-....-......-. is found in the dictionary.
+-....-......-.-.. is found in the dictionary.
+-....-......-..-..-.-- is found in the dictionary.
+-.-.---.-...---.-.........- is not found in the dictionary.
+-..... is found in the dictionary.
+-.....- is found in the dictionary.
+.---...-..--..----.-....--...--..-.-..----....---.-.--..----.--..-.. is not found in the dictionary.
+-.....-- is found in the dictionary.
+...-..----.-.-.---..---.--....--.-...-.--..-..--..-.------..--....-----...--.......-..--.---...---.-.-.....-..-.--.--..----.-....--..-.--..--.---..-...-.-.-..-.-...-..-- is not found in the dictionary.
+--.-.---..---.---...-..- is not found in the dictionary.
+-.....--. is found in the dictionary.
+......-...-.----.-.---.-..--.-.-..-......-..--------..-.-.-.-.----.-.-.-..-- is not found in the dictionary.
+-.....-. is found in the dictionary.
+-.....-.-- is found in the dictionary.
+-.....-.---..---..... is found in the dictionary.
+...----...-.-...--.----. is not found in the dictionary.
+-.....-.--..-...-. is found in the dictionary.
+-.....-.-...-...- is found in the dictionary.
+.-.--.-..-...--..---..--.--.-...---.-.....----..-.--.-.--..-....--.........--....--.-..-.-...---..-..---...-..-..- is not found in the dictionary.
+-----...-.-..-.-.---- is not found in the dictionary.
+..----....---.. is not found in the dictionary.
+..--..-..-...-.-....---.----.---.......--..-....--.-.----- is not found in the dictionary.
+-.....-..---.-- is found in the dictionary.
+-.....-..-.-.-.-- is found in the dictionary.
+-.....-..-.-.-.-..-.-- is found in the dictionary.
+....- is found in the dictionary.
+..-.---.----.....-...-..---..-.. is not found in the dictionary.
+-.....-..-.-.-..----. is found in the dictionary.
+-.....-..-...-...-..-.. is found in the dictionary.
+.--.-..-..--.-..-.-.--.--.-..-..-.-.---..-- is not found in the dictionary.
+.--...-.-..--...-.--....-- is not found in the dictionary.
+-.....-... is found in the dictionary.
+-.....-...-.. is found in the dictionary.
+-.....-...-..- is found in the dictionary.
+-.....-...-..-.. is found in the dictionary.
+--...-.-...-..--..------..-.----....--.----.--.-..-.-.--.-.-.--..--....--..--....-.-..-..--...-..----.....--..----.--.--..--...----..-...--....-..- is not found in the dictionary.
+-.....-...-..-..--.-.--...--.-.--..-............--..-.-. is found in the dictionary.
+..--.----.--...---.-.-....-....---....-.---...--.---..-...---..-.--.-....-..--...-----..----.--.....-..-..-.-.-....----.---..-.----.-....----...-----..--..-.----.---...--.--...-.-..-.---..--. is not found in the dictionary.
+--.... is not found in the dictionary.
+.-..-.-.-...-..-.-....-.--.-.-..-..-.--..-- is not found in the dictionary.
+---..- is not found in the dictionary.
+.-..-..-..- is not found in the dictionary.
+-.....-...-..-..--.-.--...--.-..-.--..-..........-..-.---.-. is found in the dictionary.
+--.-.---.-----.....-...-...-....---.-----.----.-..-...----.----.- is not found in the dictionary.
+-.-----..----..---...----..-.---..--.--..-.....--......-..--....-...-..- is not found in the dictionary.
+----...--.---..---.....-.-..---....-...-.-.-...-.--.-.-..----.---....-..-...---..-..-...--...- is not found in the dictionary.
+-..-...---...-.-.....--.....--.-. is not found in the dictionary.
+-.....-...-..-..... is found in the dictionary.
+-.-----.-.---..-..-...- is not found in the dictionary.
+...---.-.-------..-.----.-....-----....-.--.-. is not found in the dictionary.
+-.....-...-...-.--. is found in the dictionary.
+-...-.-..-...-.-.-.-.---.---...--.-......--.-.....--.--..---.--.-----.---.-..-. is not found in the dictionary.
+-.....-...-...-..----. is found in the dictionary.
+.-- is found in the dictionary.
+-.....-...-...-..----.... is found in the dictionary.
+-.-...-...--....-.-. is not found in the dictionary.
+....---..--.--....---.--.--..-...-.---------..-....--..--..-.-.-.--.--.---.---...-.-... is not found in the dictionary.
+-.....-...-..... is found in the dictionary.
+.-..--.-...--....--..--........-.......-..--.-..-----...-...--.----.-.---.-....----..--..-----.-... is not found in the dictionary.
+....--.---...----..--.--..-..--.------. is not found in the dictionary.
+--..--.----.--.---...-..---.-.---- is not found in the dictionary.
+-.....-........-. is found in the dictionary.
+-......-.-.- is found in the dictionary.
+-......-.-..-...-.... is found in the dictionary.
+-......-.-..-...-....-.. is found in the dictionary.
+.-...--... is not found in the dictionary.
+-......-.-..-...-....... is found in the dictionary.
+.-----.-.....---...--..-..-.--. is not found in the dictionary.
+-......-.-..-....--.-..----. is found in the dictionary.
+..--..-.....---.---.--.....---...-...--------.--..-..--.-----..-..-......-...--..-.---.-...--..-.-.-.-.-.---..--.-..-..--..--...-.--....----.-...--.-...-.-.--.--..---.---...-..-.--...---..-.-.---.-..--.--.-...---...--.-.--.- is not found in the dictionary.
+-......-.. is found in the dictionary.
+-......-..-.-.. is found in the dictionary.
+---.--..-..---........-..-.-.----.-..--...--...----.....-.......--..--.-----.---..-...--.-......--.--.-...---.-..-.--..--- is not found in the dictionary.
+-......-..-.-..... is found in the dictionary.
+-..------..---....--...-.. is not found in the dictionary.
+-----.........-..------....--.-.-.----. is not found in the dictionary.
+----...... is not found in the dictionary.
+.----.....---------..--.....-.-.----.----..- is not found in the dictionary.
+..-------..-...----......---..--..-.-.-.---.-...--.----....-- is not found in the dictionary.
+-...----. is not found in the dictionary.
+-...-.-....----.-...-..---..-.-..-.-.-..--..-.--..-.-.----..------.--.-.-.-.----..--..-..-..-.---.--...-.. is not found in the dictionary.
+--...-..-..-..--....--..-.-.. is not found in the dictionary.
+.-.--.....-.-.-..---...--..---.--.-....--..--.--...-..-.-..---.-.--..----....-.----.-.-..-..----.--..---.--.... is not found in the dictionary.
+-......-..-..--..----. is found in the dictionary.
+-......-..-..-.. is found in the dictionary.
+-......-... is found in the dictionary.
+--.--.--.-.-.-- is not found in the dictionary.
+...-.----...--..-.-.--..--.-.......-.-.-......-....-..---..----.....---.....-.---.. is not found in the dictionary.
+..--..-.....-..-.-...--...-...---------...-..-...-.-.-....-..-.-.--- is not found in the dictionary.
+...--..-..-.-..-..-.-.-...--.-.--... is not found in the dictionary.
+-......-...-...-.-...-.-..- is found in the dictionary.
+.-..---..-..-..... is not found in the dictionary.
+-......-...-...-..-.- is found in the dictionary.
+....--..----.-.-..--- is not found in the dictionary.
+..---.-..----- is not found in the dictionary.
+-......-...-...-..-.-...--. is found in the dictionary.
+-......-....-.---.-.. is found in the dictionary.
+.-..---....-..-...-....-..-...----...--..-.--..-..-----... is not found in the dictionary.
+-......-...... is found in the dictionary.
+-.......- is found in the dictionary.
+----..--.-.---.-.--.----...-.-...-.--.--..-.-..--.........---.-..-....-.-.-....--..-..- is not found in the dictionary.
+-- is found in the dictionary.
+--..-.-....-..---------.-... is not found in the dictionary.
+-------.--..-- is not found in the dictionary.
+-.......-.-.. is found in the dictionary.
+..-.---.---..--..---.-.-.-....-----..--.-..-.-.- is not found in the dictionary.
+-.......-.-...-.....--..----. is found in the dictionary.
+-......-----.-..--....-.--...-..--.--.-.-- is not found in the dictionary.
+--.-.....-.-..--.-.--.-...--..---.--.--....-.-..-----..-.-- is not found in the dictionary.
+-.......-.-...-...... is found in the dictionary.
+-.......-.-...-.......-.. is found in the dictionary.
+-.......-.-...-........----. is found in the dictionary.
+-.......-.-....--..-....-.. is found in the dictionary.
+-.......-.-....--..-....-..... is found in the dictionary.
+-.......-..-.-.-.- is found in the dictionary.
+-.----..--.-.--.--...-.-..--.--.....---.-.------......-..--...-.---.-.--..--.--....-....-.-------.-.-.--.-.---.. is not found in the dictionary.
+-..-.-..---..----....-.-..-.-.--..-.-.----..-.-.-.-..---.---....-..--...-.-.-..---.-....---...--...-.-..--....-.--......--.-..-.--.-.---.--.....---.--..--..--..-..-.--.-.--.....--.---.--.---....-...- is not found in the dictionary.
+-.......-..-...-.. is found in the dictionary.
+-........--.-. is found in the dictionary.
+-........--.-..-.. is found in the dictionary.
+-........--.-...-.--. is found in the dictionary.
+-........--.-.... is found in the dictionary.
+....-.....-..-..----.-..-.----.--...-.-.--.-..--.--.-.--..-..--....---.-.---..-....--.-......--....-----.-...-........-......--..-..--............-...--..-.-.-......--.-.-.---..-.....-....-.-.---..-.-.-.--...---.---..- is not found in the dictionary.
+-........-. is found in the dictionary.
+..-----..-.-------..-.-.---.--.... is not found in the dictionary.
+-......... is found in the dictionary.
+.------.--.....--..-.--.--.-.---.-.-.-..--..-.-....--..--.. is not found in the dictionary.
+..-..--.-.-..-.-..---.-.-..--...-.-..--.---..----..-.-...-......--....-----.--..-...--..-..---.----.----.-..--...--.-.-...--.-.-...-..--....-.-....-...-.-....-..-.--......--- is not found in the dictionary.
+-.........-..-.. is found in the dictionary.
+...-.---.-.----.--...- is not found in the dictionary.
+-.........-...-..---.-. is found in the dictionary.
+...- is found in the dictionary.
+. is found in the dictionary.
+.- is found in the dictionary.
+.-- is found in the dictionary.
+-..-..--....---..-..-. is not found in the dictionary.
+...----...----.-.--.--.--..-..-----------..- is not found in the dictionary.
+.--- is found in the dictionary.
+-.--.-.-.--.---...-.-...-....-........-...-..-.-.----.--.-...-.-.-.. is not found in the dictionary.
+.-------... is found in the dictionary.
+.-----.-.-.- is found in the dictionary.
+.-----.-.-.-..-.--. is found in the dictionary.
+..---.-..--..-.--..-.--....---...---.-.--..-.. is not found in the dictionary.
+.-----.-.-.-... is found in the dictionary.
+---..--.---- is not found in the dictionary.
+.-----.-.-.-.......---.--. is found in the dictionary.
+..--.-..----.--.-..-..-..-..--.----....-..-......-..-.-.-.-.-.-.-..-.-...-..... is not found in the dictionary.
+---.-.-..--....---.---.--.-.------.-..-...-----.-.---.--...- is not found in the dictionary.
+.-----.-..-.-.--..-.--. is found in the dictionary.
+.-----..-.-..-.. is found in the dictionary.
+.-...----.---.....- is not found in the dictionary.
+..--.-.--.-.-.---..-.-.....---.-.-----..----..---.-..---..-.-----.-.-------....-..-------.-..-..-..---..-.-...--.-.-..-.---..--.-......-.-...-..--.-...-....-...-...--.--..--...--.--..--..-.---...---.-.---.-.-.-..---------..-.-......-.-. is not found in the dictionary.
+.---.--.--.- is found in the dictionary.
+----...-- is not found in the dictionary.
+.---.--.-.-----.. is found in the dictionary.
+..---.....----..-.---.---....-..--.-------.-.----.--..-. is not found in the dictionary.
+.-.-.-.........-..--.-.--..-.-..-..-.--.--....----.---....-.----..---....-....--.-...-.--.--.-.-...--....-...-- is not found in the dictionary.
+...-.---.---.-.-....---.....-...-....-. is not found in the dictionary.
+.---.--..-..--..--..----. is found in the dictionary.
+.---.-.--.--.-..---.-.-. is found in the dictionary.
+.---.-.-..----. is found in the dictionary.
+.---.-.-.....-...-. is found in the dictionary.
+-...--.-.-. is not found in the dictionary.
+.--.-.----.----...---......-.--..--.--.--.---..--.-.----.-----.----.....-.--..--...--.--..-.-.-.-.-.-.-----.-..--.---.--..-------.-...-----..-.---..---..-----.-..--.-.-.--.-.-.--.-...---.--..--.-.. is not found in the dictionary.
+....-....-----...-.-.-..-- is not found in the dictionary.
+.------..--.----..-..-.--....-.-.----..-....-..---......-..--.-. is not found in the dictionary.
+.....----....--.-.-.------.---.--..-.------.--....--.---..-----...--..--.....--..--..-.---......---.--....------..--.-..----.-..-----...-.--..--..-.-..-.-.---..----........-----.-...--..-..------.-.....-.---..-...--...--.--.-...-.-..--.-....-..-.--.---....---. is not found in the dictionary.
+.-....... is not found in the dictionary.
+.---.-...-.....--. is found in the dictionary.
+.---..--. is found in the dictionary.
+.---..--.. is found in the dictionary.
+.....---.-----.--.------..........-.-.-...-.....---...--.-. is not found in the dictionary.
+-.---.--.-...--..-.-.-.....-.----..-.---.- is not found in the dictionary.
+-.-.---.-...-.- is not found in the dictionary.
+---.--.-.----..-..- is not found in the dictionary.
+.-.-..-.-..-.-.-..---------..--..---.---.-.......-- is not found in the dictionary.
+.---..-. is found in the dictionary.
+...---....- is not found in the dictionary.
+.---..-.-..-.-- is found in the dictionary.
+----..- is not found in the dictionary.
+.---..-.-... is found in the dictionary.
+.---..-...- is found in the dictionary.
+.--. is found in the dictionary.
+.--.----.-.-...-.-.. is found in the dictionary.
+.......---..-..---....---.-..---.-----..----.--.--...-..---.-----..-...-.--. is not found in the dictionary.
+.-.----.-.--.-.-.-.-----..-....----.---.--.-....--......--...-...- is not found in the dictionary.
+.--.----......-. is found in the dictionary.
+.-..-.-..--....... is not found in the dictionary.
+.--.---.--. is found in the dictionary.
+.--.---.--..-. is found in the dictionary.
+.--.---.--...-.-...--. is found in the dictionary.
+.--- is found in the dictionary.
+.--.---.--...-.-...--.-.. is found in the dictionary.
+.--.---.--...-.-...--..----. is found in the dictionary.
+.--.---.-.- is found in the dictionary.
+.--.---.-.-.--......-....--.-- is found in the dictionary.
+.--.---.-.-.-...--.-.. is found in the dictionary.
+.--.---.-.-.-...--.-..... is found in the dictionary.
+.--.---.-.-... is found in the dictionary.
+...-........--...-.---.-----.--..---...--.-.----. is not found in the dictionary.
+. is found in the dictionary.
+--....-- is not found in the dictionary.
+-..-.--.---..-..-.--.-..---...--.--.-...--.-.--....-.....--..----.---..-...--.--.- is not found in the dictionary.
+.--.......-...---.--.----.-..--..-..-.....--.-.-.-.--.--.-..--......---.-.---...-.- is not found in the dictionary.
+.--.---.-....-.-.-.-- is found in the dictionary.
+.--.---.-....-.-...-.... is found in the dictionary.
+-...-.-.-..---.- is not found in the dictionary.
+.--.---........-....-..-.-- is found in the dictionary.
+--.....---.-.-.-.-...-.-....-... is not found in the dictionary.
+.--.---........-....-... is found in the dictionary.
+.--.--.- is found in the dictionary.
+...-..--.-.------.--.-.--..-.---..-.-.-.-.--.-.-.--.-.-.-----.-----..---..--. is not found in the dictionary.
+.--.--.-- is found in the dictionary.
+. is found in the dictionary.
+.--.--.--... is found in the dictionary.
+-....-..--.--...-..-.-.-.-..-.-.---.-..-.---...-.-.-.---.---.-...-..------.-......-.....--.--...------.-.-----..-.-----....-.--..--...----.-.--.--.-------..-..-.--..-----..-.-...-.----...-.-------.....--.----.--..--..-.-.-.- is not found in the dictionary.
+.--.--.-... is found in the dictionary.
+..-.-..-.-..-.---.-..-..---.----.--.-.----..-.----. is not found in the dictionary.
+.--.--..-..----.-- is found in the dictionary.
+--...-..-.-.-..--..--.....-.--....--.--.-...-..---. is not found in the dictionary.
+.--.--......-.....--... is found in the dictionary.
+.--.--......-........ is found in the dictionary.
+-.-..----.--.--....-.....--..-.-...-.-.---.- is not found in the dictionary.
+....--....-.-.----.-----.--...--- is not found in the dictionary.
+.--.-. is found in the dictionary.
+.--.-.-- is found in the dictionary.
+.--.-.----.--..----.... is found in the dictionary.
+.--.-.-.-.---..--.- is found in the dictionary.
+..-. is found in the dictionary.
+.--.-.-.-..........-....-... is found in the dictionary.
+-.-...-.-.-.-. is not found in the dictionary.
+...--.--..----.-.-.---.-.-.-..--.-.-.-.-.--.-.-.....---..---.-.--.--..-..-..----..--.---..--..--.......---.-..--.-.-....--.----...----.---...-----.-----.---..--........ is not found in the dictionary.
+--..-..-..------...-.....------.-.-..---.. is not found in the dictionary.
+.-.--......--.--.-..-..----..--.----- is not found in the dictionary.
+...--...--..-.-----.---....-..-..-..---....-.--.-.. is not found in the dictionary.
+.--.-.-..----. is found in the dictionary.
+.--.-.-..----.... is found in the dictionary.
+.--.-.-..--. is found in the dictionary.
+.--.-.-..-.-..-. is found in the dictionary.
+.--.-.-.... is found in the dictionary.
+.---...-.-....-----.-....-.--..--- is not found in the dictionary.
+.-....---..-..----.--..-...-....--.-.----..-....-..-.-.-.----.-..---.-.....-.- is not found in the dictionary.
+.--.-.. is found in the dictionary.
+--..-.....--..--.-...-....----...-.----.-.-..-----..--..-.-.-...-..-..-.-.-. is not found in the dictionary.
+.--.-..-. is found in the dictionary.
+.---...---...--.-----....-....-....-...---.---..--...-.-.-..--.-.-..-....--.---..-....-..-..--.--.--...-----.---..-.-...---.....---.... is not found in the dictionary.
+.--.-..-.---...... is found in the dictionary.
+.--.-... is found in the dictionary.
+--.---.-..--.-....-.--....-.- is not found in the dictionary.
+.-.-.-.--- is not found in the dictionary.
+.--.-...--.-. is found in the dictionary.
+-.-.------..--.----.-.-.-.--.--..--------........-....-.-....-.--.-..--..-.---.....-..----...-..........-..--..-.----..---- is not found in the dictionary.
+-.--........--.-----..-.-----.-.. is not found in the dictionary.
+.--.-...-.... is found in the dictionary.
+--...-.-. is not found in the dictionary.
+.--.-....-.....-. is found in the dictionary.
+-....-.. is not found in the dictionary.
+.--.-........-. is found in the dictionary.
+..-....---..---.-.-....--..---.------..-..-..--.-.-.-.-..---..----- is not found in the dictionary.
+-..--.-.-.-..-.---..-----.-----..---.-.----.--.-.....-...- is not found in the dictionary.
+-.-----...--.-.-..----...-.--.-..----.----..---- is not found in the dictionary.
+...-..-.----..-...---- is not found in the dictionary.
+...-.-.--..--..--.-.-....-.-.-.---.-----.....--.-.----....---.----.. is not found in the dictionary.
+-..---.-.-..... is not found in the dictionary.
+.-.-..----..-.----..-.----...-.--..---.......-..-...--..---..-.-.---.---.-. is not found in the dictionary.
+.--.-...........-.-.. is found in the dictionary.
+.-.--.- is not found in the dictionary.
+---..------.----.--..--..-.....-...-....-.--..-....--.-.--..-....--......-.-----...---...--.--....-....--.-.--.-.-.....-..---.....-..--.---........---- is not found in the dictionary.
+----.-..-.--...-. is not found in the dictionary.
+.--.. is found in the dictionary.
+...--... is not found in the dictionary.
+..-...--.----.....-.-.-.---..-------.---..-.---.-.--.-...--..-...-....-...-..-.--.--.--.-...-----...-.-.-...-.-...--......---...-......-...-.--.-.....---.-.--.------..---.........--..-....--.--..---..--.--..-.-.-.-.-..-.--.-...--..--..-..-.-..--....----.....-------.---...-.-.-....-.-------.-.-...-.---..----.-.-.--...---------..----.......-....---.-....--....-.--.--...--...-..-..-.... is not found in the dictionary.
+.---.---.-.--....--.-...--...-..---- is not found in the dictionary.
+.--..-- is found in the dictionary.
+...---......-..-.--.-..-.....-...--..---..--.--.-.....--.---..-...-.--.-.-.-.-.----...--.-----.-----.---.--...--.---.-.-...-.----....-.-.-..-..--...-..-... is not found in the dictionary.
+.--..----...---.-...... is found in the dictionary.
+--.----.--....--.-..--.--.-.-----..-...--..--..-.- is not found in the dictionary.
+.....--.-....---...-.-.-.....----.....-...--.----.---.-..-..-.-. is not found in the dictionary.
+.....-.-....---.-...-.-...-....-.--.--......--..--- is not found in the dictionary.
+....-...-..-...--.-----.--..-..-...-.----.--...-.-..-.-..-.---....-.-.-....--..---..-.-..----.-------.-...-..--..-....-..-........-..-.--.-.-..---.-..-..--...-.-.------.--..-....-.--..-------.-.-..--.......-.....-.--.---.---.--.-...---.-.-..-..--.---....--....- is not found in the dictionary.
+.--..---..-.-.... is found in the dictionary.
+-. is found in the dictionary.
+.--..--. is found in the dictionary.
+.--..--.-.-.-.- is found in the dictionary.
+-----.--.-.---.-..- is not found in the dictionary.
+.--..--.-.-.-.---.--.--..... is found in the dictionary.
+.--..--.-.-.-.-.--..-.----.-..........-.--. is found in the dictionary.
+...--.....-...---.--.--.-..-.-....--...-....--..-...--.-.--...--.-. is not found in the dictionary.
+.--..--.-.-.-.-... is found in the dictionary.
+....--.-...----.-.---.. is not found in the dictionary.
+-..--.-.-.--....--.--.....-.-.....-..-.-.-...-.....-.......-.-.--..---......-...--.-.-....-..------.-.-.--.-.-...-.-.-..-..-.----..-....---.--.---. is not found in the dictionary.
+.-.--..-.-..-... is not found in the dictionary.
+-.-..-.-...----.--...-...-.--.-.--.-..-......--.--..-.-.--.--..-.----.---...-----.-.-..-...---.--.--....-.--.--.-..----.---.-....-..-. is not found in the dictionary.
+.--..--.-.-.-.-......--....-. is found in the dictionary.
+.--..--.-......--- is found in the dictionary.
+-.-.-.-.--..-.-.- is not found in the dictionary.
+.--..--..... is found in the dictionary.
+---.-..--.....--......--.-.-..-...-..---......--.-...-. is not found in the dictionary.
+.--..-.--------.-.---.-.. is found in the dictionary.
+.--..-.--------.-.---.-..----....-.......-..---..-... is found in the dictionary.
+--.--.-... is not found in the dictionary.
+..--------....-...-.--.-....-...--...--.-...-----.-.--.-..-......--..---.--..-.-...---.--..-..- is not found in the dictionary.
+.--..-.--------.-.---.-....-.-....--..-.-...-.- is found in the dictionary.
+.--..-.--------.-.---.-....-.-....--..-.-...-.-.-.. is found in the dictionary.
+..--......----.-....-..--...-..-...-.--..- is not found in the dictionary.
+-..--.-.----......-..-..-----.....-...-..-. is not found in the dictionary.
+-.-..-.......--..-..-...-.-..--..-..--..-------.-.- is not found in the dictionary.
+..--.--.......--..--.-.- is not found in the dictionary.
+.--..-.--------.-.---.-..... is found in the dictionary.
+.--..-.-----..-..--- is found in the dictionary.
+.--..-.-----..-..-----.--..-.-. is found in the dictionary.
+.--..-.-----..-..-----.--....-... is found in the dictionary.
+--..-..-.-.--.-..----.--.-.--..-----..--.-..-..-.----.-.-.....-.-...-....-.-...----........--..-......--...--.--......-.-..-.....--..-.--..-----..-.--.------...-..-..-.-.-.----.--.-- is not found in the dictionary.
+..-....----....-.-.---.-.---.--..-..-.-.--..-.---........--..--..-.-..-....---.- is not found in the dictionary.
+-.-..---..--.--.--.--..-.--.-..--.-.----..-....----.-....-..--....-.---......-.-..-..-----.--..-------.-.-..--..---...---.-....-.--.--.-.--.-.----.-.----.-..-.-...----...-----....- is not found in the dictionary.
+.--..-.-----..-..-----.-.. is found in the dictionary.
+---....-.---.-.--.--.--.--..--.-..---.--.--.---.--.--.-.--.....-..- is not found in the dictionary.
+-.--...-.--..-.-..-..--. is not found in the dictionary.
+.-.-.--..--..-...-....-...-..--..-.-.---.-..--....-.--.-..-.--..-....-..----.----...--.--..-..-.--.-.-.-.--..--.--...-.-...---- is not found in the dictionary.
+-.-..----.-...--..-..--.-.---..----.....-..-..---.....-.-....--.-------.---.....-.-..--.. is not found in the dictionary.
+....-...-.....---..-.--..----..----..--.-.. is not found in the dictionary.
+.--..-.-----..-..-----..-. is found in the dictionary.
+.-.-...----.-.--...- is not found in the dictionary.
+.--.---..-.-.--..------...--. is not found in the dictionary.
+.--..-.-----..-..-----..-.--. is found in the dictionary.
+.--..-.-----..-..-----..-.... is found in the dictionary.
+..--..--.---...--..-.-....-..-.....----..-..-.-..--..--..-.--..-..-...-....-. is not found in the dictionary.
+.-.---..--.--.--..-.------.-..---.-.-.--.....--...---...---..---........---.-.-....--.-..-.-.-..---.-.--...-.-....-..-.-.-...-.----..---..........--.-...-.-----..----... is not found in the dictionary.
+.--..-.-----..-..---... is found in the dictionary.
+.--.-..-.........--..-...--.-.....-...--....--...----.---.----..-..-.-..--...-.-.-..- is not found in the dictionary.
+.--..-.-----...... is found in the dictionary.
+.--------.----.---....-.----...-.--...-..--...--..-.-.-.---..---.----.----...-.--.-..-....---.---.-...---...--.-.. is not found in the dictionary.
+..-...----.---.---. is not found in the dictionary.
+.--..-.----.-...-..... is found in the dictionary.
+...-.--.-.--. is not found in the dictionary.
+.--..-.----.-........ is found in the dictionary.
+.--..-.----.-........---.-. is found in the dictionary.
+.--..-.----.-........---.-.... is found in the dictionary.
+.--..-.----.-.........-.. is found in the dictionary.
+.--..-.----.-.........-...--.-.. is found in the dictionary.
+.--..-.----.-..........-.--. is found in the dictionary.
+.---...---.--....-.. is not found in the dictionary.
+.--..-.----.-............ is found in the dictionary.
+...-.-.-------.-.-.- is not found in the dictionary.
+------------......-.-..-.---.--.---.-.-..----.-----.-----.-.--.--.-.----..----.-.-...-. is not found in the dictionary.
+.--..-.---.--.---.... is found in the dictionary.
+.--..-.---.--.---....-.-.. is found in the dictionary.
+..-.-------.....---..-.-.--.-----.-.--....-.-. is not found in the dictionary.
+.--..-.---.--.---....-.. is found in the dictionary.
+..-.-...--.---.-.---.-.-..-...-.--...-...-...-..-.-..--.-..---..- is not found in the dictionary.
+..-...-- is found in the dictionary.
+.--..-.---.--.---....... is found in the dictionary.
+.--..-.---.--..-....-.-.-.-.-- is found in the dictionary.
+-...----..--.-.-..-.--...-.--...-..--.--...-.-.-.-..-..---.- is not found in the dictionary.
+.--..-.---.-......-...-..--..----. is found in the dictionary.
+.-.---..---.---...-..--.----..-....-.-.-..--..-..-----.----.....-.-.-.-..-.--.-.--.----.---..-..---------.--.--..-.---..--...----.--.--...---.-.--.---.--.-.-.--.--.-.-.-----..-.-.--------..---..----.-..-.-...-.-.- is not found in the dictionary.
+---.-...-------.--..-...-...-..--.-.-....-...-..--..-------...-.....---..-..--..-.-.--..-.-.--..---.-.--..---.----....-.--.....-.-..-.-....--..--...-.- is not found in the dictionary.
+.--..-.---...-..-... is found in the dictionary.
+-.--..-..-.-.--.-..--..-.-.........-.----.----.--.-.....--.-.-.-.-.--..---.--....-.--..--.------.--..-.---.---.-.-.- is not found in the dictionary.
+.--..-.---...-..-....-.--. is found in the dictionary.
+.--..-.---...-..-...... is found in the dictionary.
+.--..-.--...-. is found in the dictionary.
+.--..-.--...-.... is found in the dictionary.
+.....-......-....-..-.-.---.-.....--....---...----..-..---..-....-.-..---......----..-..-.-.-.---.----....-..--.-.-.---.---..-----.---..-...-.----.--..--.--.----.-.---..-...-.-..--..-.-.-..-....--..--......---...--..-....--- is not found in the dictionary.
+.-...-. is not found in the dictionary.
+..- is found in the dictionary.
+-..-.-.-.....---..--.--...-...--.-.-.-..-..--..--....------.---.-.-..-.-.--..-......-...-.....-.....-..---.--.-...--.-..--.--..--.--..--.-. is not found in the dictionary.
+.--..-.-.- is found in the dictionary.
+.--..-.-.-..-.-...-.-...-.-. is found in the dictionary.
+.--..-.-.-...-.-.. is found in the dictionary.
+.--..-.-..---.-..-.... is found in the dictionary.
+.--..-.-..---... is found in the dictionary.
+-----.-..-..-.....---.------....- is not found in the dictionary.
+.--..-.-..-.----... is found in the dictionary.
+..-.. is found in the dictionary.
+.--..-.-..-.----....-.--. is found in the dictionary.
+..-.--..-.-.-.-.-.-...-...-...-. is not found in the dictionary.
+.--..-.-..-.----...... is found in the dictionary.
+.--..-.-..-.--........ is found in the dictionary.
+-----..-...---------..-.-.--.-.-..-.-.-...----..-..--.-----.-.-.-.-.---...-------.....-..---...-.----.....-----.----.--....----.-..--.-.-.-.--...-...-..----.-.- is not found in the dictionary.
+.--..-.-..-.-...-....-.. is found in the dictionary.
+----.........-.-.----.-.....-..--.-..-.--..----.....---..--.--.-..----..-. is not found in the dictionary.
+--...-.---......-.-...-.--...-.-..-.--...-......--....--..--...--.-.-...-----.---.--..--....-.--.-...-.--------..------- is not found in the dictionary.
+..--.--.---.-----....-- is not found in the dictionary.
+.--..-.-...--. is found in the dictionary.
+-----.-.-..---..-..-..-...-..-.--.--..--...-.-.....----.-.--------.---..-.--..-.-----..-...---.-.-.-.--..-.--.--..-..-.------........--..-..----. is not found in the dictionary.
+..-.-..-..--.-.---..-.--.......---..--.----.-..-......-.--..--..--.-.-...--. is not found in the dictionary.
+.--..-.-.....--.---.-......--.-.-..----. is found in the dictionary.
+-.--....----.-.-.---.--..--.--...--.--.----.-.--.....--.- is not found in the dictionary.
+.--..-.-.....-.. is found in the dictionary.
+--...--...--.-.--.-...-...-..-.-...-.-..-..-....-.......-------..-.--. is not found in the dictionary.
+.--..-.-......-. is found in the dictionary.
+.--..-.-......-.--. is found in the dictionary.
+----.-..-...-.--..-..---..---.--..-......-....-...---.-. is not found in the dictionary.
+.--..-.-......-.... is found in the dictionary.
+.--..-.-........--. is found in the dictionary.
+.--..-.. is found in the dictionary.
+...-----....-.---..........-...---.-...-.--...-.-.---.. is not found in the dictionary.
+.--..-..---.---. is found in the dictionary.
+...---.....--.----..-------.-.-....---...----.--..--.-.....-.--..-..--.- is not found in the dictionary.
+.--..-..---.---...-.--. is found in the dictionary.
+.--..-..--.-.-..-.-.. is found in the dictionary.
+.--..-..-...-..-.--..-..-.. is found in the dictionary.
+.--..-..-.... is found in the dictionary.
+-----..--....----.-..----.....-.-... is not found in the dictionary.
+------..---.-..---.----..----.......--.--.---------..---.----......-.-.-.-.--....-.--.-..--.....-.-- is not found in the dictionary.
+..-..---.-.---...--...--.--.. is not found in the dictionary.
+.--..-..-.....-...-..-.. is found in the dictionary.
+.--..-..-....... is found in the dictionary.
+.--...-.-...------..----.-..--...--.....-.-.--.------...-..--..----.-...--...-....-.---.... is not found in the dictionary.
+.--..-... is found in the dictionary.
+.--..-...- is found in the dictionary.
+.--..-...--.-.-....-..-.-- is found in the dictionary.
+---..-.---..--.----..--...-..-....--.....--..-.-.--..-----.--.-.-.---.-....-...--..--..-.-.--....--.-.--.----.-..-..--.-...-.------ is not found in the dictionary.
+.--..-...--.-..-.. is found in the dictionary.
+--.--..--..--.-.-.-...---.-...... is not found in the dictionary.
+.--..-...--.. is found in the dictionary.
+.--..-...--..-.---.-.-- is found in the dictionary.
+.--..-...--..-.....-. is found in the dictionary.
+.--..-...--..-.....-.... is found in the dictionary.
+----..-.-.-.---.--..-----...--.-.-...--.-------.---.-..-..--...--...-...---...------...- is not found in the dictionary.
+.--..-...-.-.-..-----. is found in the dictionary.
+..-.-.-..... is not found in the dictionary.
+.--..-...-.-.-....--..-...... is found in the dictionary.
+.--..-...-.. is found in the dictionary.
+-.-.--...--.----...-.--..-.----.. is not found in the dictionary.
+.--.----.......---..----..-...-.-.-. is not found in the dictionary.
+.--..-...-..--.--.--..-.. is found in the dictionary.
+.......---..-.-..... is not found in the dictionary.
+..--.--.---..--..--...--..-...---.-....-.-....---.-- is not found in the dictionary.
+.--..-...-............ is found in the dictionary.
+.-........-.-.....-..--.---..-....-.--.-.--.--.--.--.--....-..-...--..-......-.-..-....--.----....-....-..-.-.-...----.----......-..-..---...-.....-----.----.------. is not found in the dictionary.
+.--..-.... is found in the dictionary.
+..-.-.-.-.---.-...-.--..--- is not found in the dictionary.
+..-..--.-.-..... is not found in the dictionary.
+-....--.... is not found in the dictionary.
+.-----.-.--. is not found in the dictionary.
+...-.--..---.--..-..-.-..-----.-..-.....--.........-.--.--.-.---..-.--.-.. is not found in the dictionary.
+.--..-....---..-- is found in the dictionary.
+...-..---...--...--..---.-..-----.-..-.--.--...-------....------..-.-.....--...--.-.-.----. is not found in the dictionary.
+--.-- is not found in the dictionary.
+.--..-....-..----. is found in the dictionary.
+-..-...-.--.-....-.-...-..-.--..--....---....-.---..-...--....-----..-...-...--...-..-...--.---.-.----.-.--..--....-...---.--.-.--.--.-.----- is not found in the dictionary.
+.--..-....-..----..-.-.. is found in the dictionary.
+-..-.- is not found in the dictionary.
+..-.-..---..---....-.--.-.-.-.....--.--.--..-.-..-..----.--.--.--..--..-....-.-........-...---.-.....--.-..---..--.---..-..-.---...--..-.---..-..-.-.-..----.---.--.-.-...--..--.--.-...-.---.--.-.---..--.--......---.-----.--.--.---.--..--.--.-..---..-..-...--..--..----.-.-.--.-- is not found in the dictionary.
+.--..-....-...-. is found in the dictionary.
+...-.-.-..----.-.- is not found in the dictionary.
+--...-...--.-.....-.---.-..-..---...--..-...--.-.- is not found in the dictionary.
+.. is found in the dictionary.
+.--..-....-...-..- is found in the dictionary.
+.--..-.....--..-.-. is found in the dictionary.
+......---.--.----.-..---.-. is not found in the dictionary.
+.----.....---.--.-..--.-.---.......-.- is not found in the dictionary.
+..--..-.--..-.-..-...---...-....----...- is not found in the dictionary.
+.--..-...... is found in the dictionary.
+.--..-......-. is found in the dictionary.
+.--..-......-.- is found in the dictionary.
+--..--...-..-.-.-.--.-.-.-...----.---.-..--.---...--.-.....-..------..-...--..--.--...-..--...---.......-..--.---.----..---..----.-..-.--.--..-.-..--..- is not found in the dictionary.
+.--..-.......-.. is found in the dictionary.
+- is not found in the dictionary.
+....-.-...- is not found in the dictionary.
+.--..-........ is found in the dictionary.
+.--..-........--....-.---.---. is found in the dictionary.
+....-.--.-... is not found in the dictionary.
+..-.... is found in the dictionary.
+.--..-........-.-......-.-.-.- is found in the dictionary.
+.--...---..-- is found in the dictionary.
+.--...---...-. is found in the dictionary.
+...--..---.-..--.--..-.---.-- is not found in the dictionary.
+.-...--...-- is not found in the dictionary.
+.....---.---.. is not found in the dictionary.
+.-.-..--..- is not found in the dictionary.
+.--...-. is found in the dictionary.
+--.--..-...-.--....-.--..--------...-...-...---.-.-....--..-..-...---..-..-.--.--.-.---.--..-....---...--....-.-...- is not found in the dictionary.
+.--...-.--..- is found in the dictionary.
+---.-..--......--..----.-.......-.---..--.-.--.-..--...--.....--..--..---..--..-....--...---.--.-.-.---.-..---..-..--- is not found in the dictionary.
+.--...-.-..--.---....... is found in the dictionary.
+.--...-..-..-.-..-.-.-.. is found in the dictionary.
+.--...-..-..-.-..-.-.-..... is found in the dictionary.
+.--...-...-.---.-.-- is found in the dictionary.
+--.-.--.--.--.---...-...---...-----...------------.-...-..--.-......-..-.-.-.-.---.--......-.----.-..----.-.-..--.--...-...- is not found in the dictionary.
+.-....---.-.--..-.-..-....---.-..--.--.--.--.--....-----.-.-....--..--..--...--.-.--.-.--.-.----..-.....- is not found in the dictionary.
+.--...-...-.---.-.--.--.-.-.. is found in the dictionary.
+---..-.-..---.-..-..-..-.-.....---.-.---.-- is not found in the dictionary.
+.- is found in the dictionary.
+......-....---.-.----.---.--..--.-.-.--.--..-...------.----..-.--.....-.---.-.....-...-----.-..-..--...--- is not found in the dictionary.
+.-.....-.-...-.----..-...----...-.-- is not found in the dictionary.
+.-.- is not found in the dictionary.
+.--...-...-.---.-.--.-.. is found in the dictionary.
+.--...-...-.---.-.--..-.--. is found in the dictionary.
+-..----.-...-......---.-.---.-..--.---.-..-.--. is not found in the dictionary.
+.--...-...-.---.-.--... is found in the dictionary.
+.--...-...-.. is found in the dictionary.
+----.--.-..-..-.-...-.---..--...--....-..--...-----..-.---..-.-.-.-------......-.--.--.-...-..-.-----...-.--...-......-.-.--.---.--.--... is not found in the dictionary.
+.--...-...-....-.--.-.-.. is found in the dictionary.
+...---......-..-....--.-.-- is not found in the dictionary.
+.--...-....-.. is found in the dictionary.
+.--...-......--...-.. is found in the dictionary.
+...--...---.. is not found in the dictionary.
+-.-..-......---....---.-...---...-.-.-..-.... is not found in the dictionary.
+.--.... is found in the dictionary.
+.--....---.-... is found in the dictionary.
+.--....---.... is found in the dictionary.
+.----.-.---.........---.....-.-...-....--...--..--.--.--.-----..--.--.--..----.--------.-.-...--.-...--.-....-.--..-.-.--.....-.-..--..--...-.-. is not found in the dictionary.
+-.-.-......-.-.-..-.-..--..-.- is not found in the dictionary.
+..-.-.-..----...--.-..-----..---... is not found in the dictionary.
+.--....--...-....-.. is found in the dictionary.
+....---.--..-.-..--....---.-........--..-...........---........--.-- is not found in the dictionary.
+.--....--...-....-..... is found in the dictionary.
+.-....--..-..-.--..-.-.-......-.-.-.-.-.---.-..-.---.......-----.- is not found in the dictionary.
+.--....-... is found in the dictionary.
+.--....-....-.... is found in the dictionary.
+-.--...--....-..-.---.-.-.--. is not found in the dictionary.
+.--.....-- is found in the dictionary.
+-......-- is not found in the dictionary.
+.--.....-. is found in the dictionary.
+--.-....--....-.-.--. is not found in the dictionary.
+-..--....-.-.--. is not found in the dictionary.
+.- is found in the dictionary.
+-----..--.----.-..-.-..-.-...-.--.----.......-...--....---..---.- is not found in the dictionary.
+.--.....-.--.....-.-..-.-.. is found in the dictionary.
+.--.....-.--.....-.-..-.-...-..-.-- is found in the dictionary.
+-..-..-....-.----.-...-..--...-.-.-.-..--.-........-..--.---..-..-......---..--..----....-...-----..--.---.--.--. is not found in the dictionary.
+.. is found in the dictionary.
+.-----..----.--..---.-.--.-.--..--.-..-....-.-. is not found in the dictionary.
+.--.-......----.-.-...-.--..-..-...-...-.--.-.-..--.-.--..---.-.-.----.-.-...--.-...----.....-. is not found in the dictionary.
+-----.--..-........--.-----...... is not found in the dictionary.
+-...--...----.-....-...-.-..-..--......-..--...----.-.-..-.--....-----....---..-----.-...---.---.-.---.-.---.--.-.-..-..-.....-.-.-.----.-..--...--..-....-----...-..--.--..--..-...-.........--..--.. is not found in the dictionary.
+.--.....-......-. is found in the dictionary.
+.--......-.-..--.-.- is found in the dictionary.
+.--......-.-..--.-.-..----. is found in the dictionary.
+....--.---.. is not found in the dictionary.
+.--......-.-..--.-.-..----.... is found in the dictionary.
+.--......-.-..... is found in the dictionary.
+.--......-.. is found in the dictionary.
+.--......-...-... is found in the dictionary.
+.--......-.... is found in the dictionary.
+..---.--.. is not found in the dictionary.
+--..-.-..-------.--..--..--.----------.-.-...---..--.----...--..-.----.-.....---. is not found in the dictionary.
+.-...-...-.--..---.-.---.-.-..----......-.-...-.-.-..---.----.--.----.--.----.--.....--.....-.-.-..-.-..-..---....----.--...----.--.--....----....-..---.-..---..-----.....-----.--......----.---..----..-..-.....-..--.-.... is not found in the dictionary.
+.--......-....... is found in the dictionary.
+.--.......--..--- is found in the dictionary.
+.--.......-... is found in the dictionary.
+.-...--...--...-.-.-..-.-......-.-.-.--.-.---....---.------..---.-.- is not found in the dictionary.
+-----..-..--..---.-...-.-.--.--.-..-..-......----.--...---.-.-.--..-.-.-.-----...-...--.--...--..-.-- is not found in the dictionary.
+--..-.-.-..- is not found in the dictionary.
+.-. is found in the dictionary.
+--..-.-. is not found in the dictionary.
+.---.-...-.--..-....-..---- is not found in the dictionary.
+.-.-...----..--..---..-..------.-.---....-. is not found in the dictionary.
+.-.--- is found in the dictionary.
+.-.---..--. is found in the dictionary.
+. is found in the dictionary.
+-.--..---.--....-..---.--..---..-.--.-.....----.-.--.-.--..-.-...--.---..--..-.--..-...-.-...----.--...-..--.-.---.----..-..--..-.---.....---.-.-----.....---.--.-......-..-----.--.-.-.--..-.-.---....--..-.-.....---... is not found in the dictionary.
+.-.---..--..-. is found in the dictionary.
+---. is not found in the dictionary.
+----.-.-..---.--...------..-------....----.....-.. is not found in the dictionary.
+.--.--...-.--.-...-..--....-.-..--..-...--...-..-..-..-.--....-.-...--.--.--..--...--.--.--..-.....-.-...-..-.--.-..---..-.--..--...-.----...--.------.....-.....--.....------..-...-...--.-..-....--.--.-. is not found in the dictionary.
+.-.---..--..-.--. is found in the dictionary.
+-.--.-.--.-.----..- is not found in the dictionary.
+.-.---..--..-.... is found in the dictionary.
+--.-.-.-....-.--.---.-.-.-..-..--.....-.---.--.-..-.----..-......--..--.-----..-.-.-.---.-.--.-.-...-.-.....---..--.-.-.-.- is not found in the dictionary.
+-..---..-.---.-..-.----......--...-.-...--.-..--.--.. is not found in the dictionary.
+.-.---..--.... is found in the dictionary.
+..----.-..-...--....-.--. is not found in the dictionary.
+.-.--..--..-.---.--.-..... is found in the dictionary.
+.....---.-..--...--.-.-.---...-..-......---...-.--...-.--..--.-..-.---..-. is not found in the dictionary.
+..-...--..-.--....---. is not found in the dictionary.
+.-.--..--..-.---.--..-....--. is found in the dictionary.
+.-.--..--..-..-.-- is found in the dictionary.
+.-.--..--..-....-.-..--..----.... is found in the dictionary.
+.-.--..--..-.....-.. is found in the dictionary.
+.-.--..-. is found in the dictionary.
+.-.--... is found in the dictionary.
+.-.--...-....-...-.--. is found in the dictionary.
+.-.--...... is found in the dictionary.
+.-.-.--...-. is found in the dictionary.
+.-.--..-.-...---.---....-..--------.......-.---.----...-...-.-..-..-- is not found in the dictionary.
+.-.-.-. is found in the dictionary.
+.-.-.-.----...-.. is found in the dictionary.
+--.--.....---.----.-.--...----.....--. is not found in the dictionary.
+.-.-.-.---..--.-..-..-.. is found in the dictionary.
+..-..-.-.-....-.-.-.---.....---.---.-.-----.---.-...-.-.----...-..-.-.....-..-.--.----..-.-.-.-..--....-...-.-.-.-.-..----.-..-.--...--.--......-- is not found in the dictionary.
+.-.-.-.---..-.-..---..... is found in the dictionary.
+.-.-.-.-.-- is found in the dictionary.
+.-..--.--...-....-.-.... is not found in the dictionary.
+.-.-.-.-.......-.-.-.-..-.-.. is found in the dictionary.
+.-.-.-..-.--......-.-...--..----. is found in the dictionary.
+----....---... is not found in the dictionary.
+--.- is not found in the dictionary.
+.-.-.-.....-.-..-.-.-.-- is found in the dictionary.
+..---.-....-----.--.--..-..- is not found in the dictionary.
+.-.-.-....... is found in the dictionary.
+.-.-.. is found in the dictionary.
+-..------.--.-....-....-..--.-..------.-..--..--...---.--.-..--......---....-------....--.-...-.--.-. is not found in the dictionary.
+.-.-..--. is found in the dictionary.
+...--.-.-..-......-----. is not found in the dictionary.
+..--.-.--.--....-. is not found in the dictionary.
+...-.-...--.--...-.--...--....-.-.----.-.-..-.--.-..-.-.-.-.-.-.-- is not found in the dictionary.
+-...-.-.-..---- is not found in the dictionary.
+...-..-..-.-----.-- is not found in the dictionary.
+.-.-..--.---.-...-....--... is found in the dictionary.
+.-.-..-..--.--.. is found in the dictionary.
+.....--.---.-. is not found in the dictionary.

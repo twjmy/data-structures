@@ -1,0 +1,12 @@
+1 2 3 4 5 6 7 8 9
+10
+add 4
+add 8
+del 7
+rev 4
+show
+ins 1 11
+mul 1 3
+add 6
+rev 3
+show

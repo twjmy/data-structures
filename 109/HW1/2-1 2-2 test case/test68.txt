@@ -1,0 +1,56 @@
+T X O O T X S O O O O X X 
+O O X T O O O O X U O X T 
+O X O X O X X O O X X X O 
+O O O O X X O X T X X O O 
+X T O X O O X X T T T X O 
+X X U O X X O O O X T X X 
+X O O O T O O O X O T X X 
+O O X U O O O O O O O X O 
+X T T O O T O X O X X X O 
+X X O O O X O O O X X X X 
+O X O O X O O O O O T X X 
+O O T O X X O O O O O X O 
+O X O O T O T T O X X O O 
+
+O X T O O O X X O X X 
+X O X X X O X O X O O 
+O O O O X X O X O X O 
+T O X X X O O T O X X 
+X T X X O X X X O X O 
+X O X O X O O O O O X 
+O U X X O X O X O X O 
+X O T X O X X X X O O 
+X O X O O O O T X O X 
+O X U O X O O X O O O 
+O O O O X O T O X O X 
+
+O X O O X T X O O 
+O X X O O U O O X 
+X X X X X O O X O 
+X X X O O O O O X 
+X X O O O X X U O 
+O O O X X X X X X 
+X X X T O U X O O 
+O O O X O O X O O 
+O O X O O O X X X 
+
+T X O X T X O 
+X O U O U O X 
+O O O X X X O 
+X U O T O X X 
+X O X O T O X 
+O O O O U O X 
+O X X O O O X 
+
+O O O T X 
+X X O O X 
+O D O D X 
+O U O U O 
+X X X O O 
+
+O X O 
+O U X 
+O O O 
+
+F 
+

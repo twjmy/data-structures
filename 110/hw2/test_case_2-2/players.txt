@@ -1,0 +1,44 @@
+43
+1 5 2008 s beef
+2 5 2008 c lettuce
+2 8 2008 c tomato
+1 11 2008 f
+2 11 2112 s rice
+1 14 2112 c fish
+1 17 2001 s beef
+2 17 2112 f
+2 19 2001 c lettuce
+2 22 2001 c tomato
+1 25 2001 f
+1 36 2003 s rice
+2 36 2003 c fish
+2 41 2003 f
+1 51 2006 s rice
+2 51 2006 c fish
+2 56 2006 f
+2 58 2004 c orange
+2 61 2004 c peach
+2 64 2004 c grape
+1 67 2004 f
+2 67 2117 s rice
+1 68 2117 c fish
+1 72 2117 f
+1 78 2239 s beef
+2 78 2239 c lettuce
+2 81 2239 c tomato
+1 84 2239 f
+1 88 2235 s potato
+2 93 2235 f
+2 94 2115 c lettuce
+2 97 2115 c tomato
+2 100 2115 c cucumber
+1 103 2115 f
+1 174 2120 s beef
+2 174 2120 c lettuce
+2 177 2120 c tomato
+1 180 2120 f
+1 188 2111 s potato
+1 193 2121 s rice
+2 193 2111 f
+2 194 2121 c fish
+2 198 2121 f

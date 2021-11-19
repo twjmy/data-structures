@@ -1,0 +1,299 @@
+test 1 starts now.
+Shortest path: 8, Limit: 13, The number of different paths: 3
+
+test 2 starts now.
+Shortest path: 8, Limit: 13, The number of different paths: 2
+
+test 3 starts now.
+Shortest path: 9, Limit: 14, The number of different paths: 1
+
+test 4 starts now.
+Shortest path: 9, Limit: 14, The number of different paths: 36
+
+test 5 starts now.
+Shortest path: 10, Limit: 15, The number of different paths: 4
+
+test 6 starts now.
+Shortest path: 6, Limit: 11, The number of different paths: 9
+
+test 7 starts now.
+Shortest path: 4, Limit: 9, The number of different paths: 6
+
+test 8 starts now.
+Shortest path: 6, Limit: 11, The number of different paths: 4
+
+test 9 starts now.
+Shortest path: 6, Limit: 11, The number of different paths: 19
+
+test 10 starts now.
+Shortest path: 7, Limit: 12, The number of different paths: 23
+
+test 11 starts now.
+Shortest path: 11, Limit: 16, The number of different paths: 8
+
+test 12 starts now.
+Shortest path: 8, Limit: 13, The number of different paths: 5
+
+test 13 starts now.
+Shortest path: 8, Limit: 13, The number of different paths: 13
+
+test 14 starts now.
+Shortest path: 13, Limit: 18, The number of different paths: 34
+
+test 15 starts now.
+Shortest path: 10, Limit: 15, The number of different paths: 11
+
+test 16 starts now.
+Shortest path: 23, Limit: 28, The number of different paths: 33
+
+test 17 starts now.
+Shortest path: 21, Limit: 26, The number of different paths: 62
+
+test 18 starts now.
+Shortest path: 6, Limit: 11, The number of different paths: 31
+
+test 19 starts now.
+Shortest path: 13, Limit: 18, The number of different paths: 245
+
+test 20 starts now.
+Shortest path: 15, Limit: 20, The number of different paths: 12
+
+test 21 starts now.
+Shortest path: 14, Limit: 19, The number of different paths: 18
+
+test 22 starts now.
+Shortest path: 19, Limit: 24, The number of different paths: 36
+
+test 23 starts now.
+Shortest path: 14, Limit: 19, The number of different paths: 41
+
+test 24 starts now.
+Shortest path: 19, Limit: 24, The number of different paths: 32
+
+test 25 starts now.
+Shortest path: 42, Limit: 47, The number of different paths: 171
+
+test 26 starts now.
+Shortest path: 12, Limit: 17, The number of different paths: 18
+
+test 27 starts now.
+Shortest path: 12, Limit: 17, The number of different paths: 11
+
+test 28 starts now.
+Shortest path: 23, Limit: 28, The number of different paths: 2950
+
+test 29 starts now.
+Shortest path: 15, Limit: 20, The number of different paths: 151
+
+test 30 starts now.
+Shortest path: 23, Limit: 28, The number of different paths: 58
+
+test 31 starts now.
+Shortest path: 23, Limit: 28, The number of different paths: 65
+
+test 32 starts now.
+Shortest path: 29, Limit: 34, The number of different paths: 187
+
+test 33 starts now.
+Shortest path: 19, Limit: 24, The number of different paths: 71
+
+test 34 starts now.
+Shortest path: 22, Limit: 27, The number of different paths: 29
+
+test 35 starts now.
+Shortest path: 38, Limit: 43, The number of different paths: 350
+
+test 36 starts now.
+Shortest path: 32, Limit: 37, The number of different paths: 1432
+
+test 37 starts now.
+Shortest path: 17, Limit: 22, The number of different paths: 122
+
+test 38 starts now.
+Shortest path: 24, Limit: 29, The number of different paths: 80
+
+test 39 starts now.
+Shortest path: 29, Limit: 34, The number of different paths: 95
+
+test 40 starts now.
+Shortest path: 46, Limit: 51, The number of different paths: 110
+
+test 41 starts now.
+Shortest path: 55, Limit: 60, The number of different paths: 1232
+
+test 42 starts now.
+Shortest path: 31, Limit: 36, The number of different paths: 1676
+
+test 43 starts now.
+Shortest path: 29, Limit: 34, The number of different paths: 654
+
+test 44 starts now.
+Shortest path: 29, Limit: 34, The number of different paths: 544
+
+test 45 starts now.
+Shortest path: 35, Limit: 40, The number of different paths: 642
+
+test 46 starts now.
+Shortest path: 42, Limit: 47, The number of different paths: 4480
+
+test 47 starts now.
+Shortest path: 40, Limit: 45, The number of different paths: 75
+
+test 48 starts now.
+Shortest path: 38, Limit: 43, The number of different paths: 274
+
+test 49 starts now.
+Shortest path: 36, Limit: 41, The number of different paths: 620
+
+test 50 starts now.
+Shortest path: 46, Limit: 51, The number of different paths: 131
+
+test 51 starts now.
+Shortest path: 55, Limit: 60, The number of different paths: 3226
+
+test 52 starts now.
+Shortest path: 39, Limit: 44, The number of different paths: 5614
+
+test 53 starts now.
+Shortest path: 32, Limit: 37, The number of different paths: 256
+
+test 54 starts now.
+Shortest path: 49, Limit: 54, The number of different paths: 1054
+
+test 55 starts now.
+Shortest path: 41, Limit: 46, The number of different paths: 8184
+
+test 56 starts now.
+Shortest path: 54, Limit: 59, The number of different paths: 5600
+
+test 57 starts now.
+Shortest path: 70, Limit: 75, The number of different paths: 438
+
+test 58 starts now.
+Shortest path: 42, Limit: 47, The number of different paths: 1194
+
+test 59 starts now.
+Shortest path: 57, Limit: 62, The number of different paths: 2665
+
+test 60 starts now.
+Shortest path: 48, Limit: 53, The number of different paths: 17541
+
+test 61 starts now.
+Shortest path: 56, Limit: 61, The number of different paths: 3672
+
+test 62 starts now.
+Shortest path: 43, Limit: 48, The number of different paths: 1697
+
+test 63 starts now.
+Shortest path: 51, Limit: 56, The number of different paths: 9380
+
+test 64 starts now.
+Shortest path: 41, Limit: 46, The number of different paths: 1410
+
+test 65 starts now.
+Shortest path: 47, Limit: 52, The number of different paths: 1420
+
+test 66 starts now.
+Shortest path: 50, Limit: 55, The number of different paths: 9832
+
+test 67 starts now.
+Shortest path: 43, Limit: 48, The number of different paths: 1459
+
+test 68 starts now.
+Shortest path: 50, Limit: 55, The number of different paths: 19496
+
+test 69 starts now.
+Shortest path: 50, Limit: 55, The number of different paths: 12512
+
+test 70 starts now.
+Shortest path: 52, Limit: 57, The number of different paths: 678
+
+test 71 starts now.
+Shortest path: 49, Limit: 54, The number of different paths: 1364
+
+test 72 starts now.
+Shortest path: 56, Limit: 61, The number of different paths: 447
+
+test 73 starts now.
+Shortest path: 46, Limit: 51, The number of different paths: 89
+
+test 74 starts now.
+Shortest path: 53, Limit: 58, The number of different paths: 15968
+
+test 75 starts now.
+Shortest path: 60, Limit: 65, The number of different paths: 3672
+
+test 76 starts now.
+Shortest path: 39, Limit: 44, The number of different paths: 1114
+
+test 77 starts now.
+Shortest path: 32, Limit: 37, The number of different paths: 960
+
+test 78 starts now.
+Shortest path: 38, Limit: 43, The number of different paths: 2808
+
+test 79 starts now.
+Shortest path: 43, Limit: 48, The number of different paths: 238
+
+test 80 starts now.
+Shortest path: 37, Limit: 42, The number of different paths: 6400
+
+test 81 starts now.
+Shortest path: 46, Limit: 51, The number of different paths: 10976
+
+test 82 starts now.
+Shortest path: 51, Limit: 56, The number of different paths: 860
+
+test 83 starts now.
+Shortest path: 49, Limit: 54, The number of different paths: 3220
+
+test 84 starts now.
+Shortest path: 49, Limit: 54, The number of different paths: 9944
+
+test 85 starts now.
+Shortest path: 33, Limit: 38, The number of different paths: 494
+
+test 86 starts now.
+Shortest path: 50, Limit: 55, The number of different paths: 768
+
+test 87 starts now.
+Shortest path: 39, Limit: 44, The number of different paths: 46404
+
+test 88 starts now.
+Shortest path: 49, Limit: 54, The number of different paths: 952
+
+test 89 starts now.
+Shortest path: 63, Limit: 68, The number of different paths: 2100
+
+test 90 starts now.
+Shortest path: 44, Limit: 49, The number of different paths: 12372
+
+test 91 starts now.
+Shortest path: 39, Limit: 44, The number of different paths: 1308
+
+test 92 starts now.
+Shortest path: 34, Limit: 39, The number of different paths: 736
+
+test 93 starts now.
+Shortest path: 50, Limit: 55, The number of different paths: 72096
+
+test 94 starts now.
+Shortest path: 52, Limit: 57, The number of different paths: 900
+
+test 95 starts now.
+Shortest path: 40, Limit: 45, The number of different paths: 170
+
+test 96 starts now.
+Shortest path: 69, Limit: 74, The number of different paths: 4466
+
+test 97 starts now.
+Shortest path: 50, Limit: 55, The number of different paths: 166
+
+test 98 starts now.
+Shortest path: 47, Limit: 52, The number of different paths: 2847
+
+test 99 starts now.
+Shortest path: 55, Limit: 60, The number of different paths: 8086
+
+test 100 starts now.
+Shortest path: 39, Limit: 44, The number of different paths: 550

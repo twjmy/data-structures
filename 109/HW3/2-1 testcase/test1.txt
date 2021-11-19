@@ -1,0 +1,8 @@
+4
+APPLE
+BANANA
+CAT
+DOG
+2
+-.-..--
+-.-

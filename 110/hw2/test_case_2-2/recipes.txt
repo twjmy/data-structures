@@ -1,0 +1,6 @@
+5
+french_fries potato x x
+fruit_platter x orange,peach,grape x
+hamburger beef lettuce,tomato cheese,bread
+salad x lettuce,tomato,cucumber x
+sushi rice fish nori

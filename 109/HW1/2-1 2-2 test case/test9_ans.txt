@@ -1,0 +1,14 @@
+Path length: 6
+=====outMaze=====
+* X O X O 
+* * U O T 
+O O O O X 
+X X O X O 
+X O O O X 
+
+* O X 
+* * T 
+O O X 
+
+* 
+

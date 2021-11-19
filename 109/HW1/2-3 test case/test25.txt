@@ -1,0 +1,30 @@
+X X O X X X O X X 
+X X O X X X O P X 
+O U X X X T X T T 
+O X O U O O O U O 
+S O T X O X O O T 
+O O X T X O O O X 
+O O X X X X X X O 
+T X T X O X O X O 
+X O O X O O T X X 
+
+O O T X O P P 
+O O O O U X O 
+X X X X X U X 
+X X O X U O X 
+X X X O X X X 
+O O O X O X O 
+X T X O X O O 
+
+O X X O O 
+O D U U O 
+O T T U X 
+X U O O X 
+X O X X X 
+
+T X X 
+O U O 
+X X O 
+
+F 
+

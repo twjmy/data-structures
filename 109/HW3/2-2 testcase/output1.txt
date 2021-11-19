@@ -1,0 +1,3 @@
+NDTT is the same as CAT.
+KIT has the same prefix as CAT.
+RUT doesn’t have the same prefix as CAT.

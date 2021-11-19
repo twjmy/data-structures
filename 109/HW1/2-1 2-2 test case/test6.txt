@@ -1,0 +1,12 @@
+O X O O O 
+O X X U T 
+O U T U O 
+O U O T T 
+S X O O X 
+
+X O X 
+O U T 
+O T X 
+
+F 
+

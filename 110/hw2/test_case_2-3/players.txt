@@ -1,0 +1,174 @@
+173
+1 2 9407 s rice
+2 2 9407 c fish
+2 7 9407 f
+1 10 8240 s potato
+2 15 8240 f
+1 18 4457 s dough
+1 23 4457 s egg
+2 28 4457 f
+2 30 8349 c tomato
+1 33 8349 f
+2 37 8304 c tomato
+1 40 8304 f
+2 43 806 c fish
+1 46 806 f
+2 46 3730 s dough
+1 47 3730 c tomato
+1 50 3730 c cheese
+2 53 3730 f
+2 54 1105 c fish
+1 57 1105 f
+1 58 782 c tomato
+1 61 1617 s dough
+2 61 782 f
+1 66 1617 s egg
+2 71 1617 f
+2 81 5588 c fish
+1 84 5588 f
+1 85 1249 c lettuce
+1 88 1249 c tomato
+1 91 1249 c cucumber
+2 94 1249 f
+1 102 7311 s potato
+2 107 7311 f
+2 114 1026 c lettuce
+2 117 1026 c tomato
+2 120 1026 c cucumber
+1 123 1026 f
+2 123 2703 s rice
+1 124 2703 c fish
+1 128 2703 f
+1 137 2868 s rice
+2 137 2868 c fish
+2 142 2868 f
+1 147 179 s dough
+2 147 179 c tomato
+2 150 179 c cheese
+1 153 179 f
+2 159 6637 c orange
+2 162 6637 c peach
+2 165 6637 c grape
+1 168 6637 f
+1 169 6582 c fish
+2 172 6582 f
+2 173 1541 c lettuce
+2 176 1541 c tomato
+2 179 1541 c cucumber
+1 182 1541 f
+1 183 4140 c orange
+1 186 4140 c peach
+1 189 4140 c grape
+2 192 4140 f
+1 200 5227 s beef
+2 200 5227 c lettuce
+2 203 5227 c tomato
+1 206 5227 f
+2 212 7497 c tomato
+1 215 7497 f
+1 219 5439 s potato
+2 224 5439 f
+1 227 822 s beef
+2 227 822 c lettuce
+2 230 822 c tomato
+1 233 822 f
+2 233 4856 s potato
+1 238 4856 f
+2 238 3239 s beef
+1 239 3239 c tomato
+1 242 3239 c mushroom
+2 245 3239 f
+1 251 9741 s dough
+2 251 9741 c tomato
+2 254 9741 c cheese
+1 257 9741 f
+2 257 6415 s beef
+1 258 6415 c tomato
+1 261 6415 c mushroom
+2 264 6415 f
+2 265 6372 c fish
+1 268 6372 f
+2 268 3768 s rice
+1 269 3768 c fish
+1 273 3768 f
+2 285 1293 c fish
+1 288 1293 f
+1 294 1362 s potato
+2 299 1362 f
+2 300 2145 c lettuce
+2 303 2145 c tomato
+2 306 2145 c cucumber
+1 309 2145 f
+1 310 8565 c tomato
+1 313 4915 s rice
+2 313 8565 f
+2 315 4915 c fish
+1 318 4915 f
+1 327 6038 s potato
+2 332 6038 f
+2 333 7011 c tomato
+1 336 7011 f
+1 341 5963 s dough
+2 341 5963 c tomato
+2 344 5963 c cheese
+1 347 5963 f
+2 347 618 s potato
+1 352 618 f
+1 353 7051 c orange
+1 356 7051 c peach
+1 359 7051 c grape
+2 362 7051 f
+2 369 5765 c orange
+2 372 5765 c peach
+2 375 5765 c grape
+1 378 5765 f
+1 385 4175 s dough
+1 390 4175 s egg
+2 395 4175 f
+2 397 7873 c fish
+1 400 7873 f
+1 401 8118 c tomato
+2 404 8118 f
+2 410 7108 c lettuce
+2 413 7108 c tomato
+2 416 7108 c cucumber
+1 419 7108 f
+1 420 8711 c fish
+2 423 8711 f
+2 425 6641 c fish
+1 428 6641 f
+1 429 921 c fish
+2 432 921 f
+2 433 3766 c lettuce
+2 436 3766 c tomato
+2 439 3766 c cucumber
+1 442 3766 f
+2 442 1055 s dough
+1 443 1055 c tomato
+1 446 1055 c cheese
+2 449 1055 f
+2 450 8984 c orange
+2 453 8984 c peach
+2 456 8984 c grape
+1 459 8984 f
+2 459 886 s beef
+1 460 886 c lettuce
+1 463 886 c tomato
+2 466 886 f
+2 469 5638 c fish
+1 472 5638 f
+2 472 5755 s dough
+2 477 5755 s egg
+1 482 5755 f
+1 493 2364 s dough
+2 493 2364 c tomato
+2 496 2364 c cheese
+1 499 2364 f
+2 499 2682 s rice
+1 500 2682 c fish
+1 504 2682 f
+1 506 1682 c fish
+1 509 3343 s rice
+2 509 1682 f
+2 510 3343 c fish
+2 514 3343 f

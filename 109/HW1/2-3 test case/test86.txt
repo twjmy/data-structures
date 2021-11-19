@@ -1,0 +1,42 @@
+T O X T X S T X X O X 
+T X X X X X T X T X X 
+O X T X U O O X O T O 
+O X T X X O O O O O X 
+X X X T O X O O O X X 
+O O O O O O X X T X X 
+T X O X X U X X D X O 
+T X X X X X U X X X O 
+X X X X X O X O O X O 
+O O O X X X O X O X O 
+T O X O O O X X O X T 
+
+O X X X X X X X O 
+X O X T O O X U X 
+O O O O X X O X X 
+T O T X O X O X X 
+X U O O T X X O T 
+T O O T X X O X O 
+X O O X O O X X X 
+X T T X X O O X X 
+X X O O X O X X T 
+
+O X O X X X X 
+T X X O O O O 
+O T O U O O O 
+T O X X O O O 
+X U O U X X O 
+T U X D T X X 
+O X X T O O X 
+
+O X X X X 
+X U T O X 
+X U U D X 
+X O X D X 
+O O X X O 
+
+P P X 
+O P O 
+X O X 
+
+F 
+
