@@ -142,137 +142,137 @@ main(){ // run in c18
 	for(player1 = NULL, player2 = NULL, i = -1; ++i < n;){
 		const int s5 = order[i].s*5, c3 = order[i].c*3, f = order[i].deadline - order[i].others;
 		int stove[3] = {0}, cut[3] = {0}, put[3] = {0}, start = 0;
-		bool flag;
+		bool done;
 		if(order[i].s){
 			const int s = f - s5;
-			for(flag = true, stove[1] = order[i].arrival; stove[1] < s; ++stove[1]){ // player 1
-				for(flag = true, k = -1; flag && ++k < s5;)
+			for(done = true, stove[1] = order[i].arrival; stove[1] < s; ++stove[1]){ // player 1
+				for(done = true, k = -1; done && ++k < s5;)
 					if(field[1][stove[1]+k] || field[0][stove[1]+k])
-						flag = false;
-				if(flag) break;
+						done = false;
+				if(done) break;
 			}
-			for(flag = true, stove[2] = order[i].arrival; stove[2] < s; ++stove[2]){ // player 2
-				for(flag = true, k = -1; flag && ++k < s5;)
+			for(done = true, stove[2] = order[i].arrival; stove[2] < s; ++stove[2]){ // player 2
+				for(done = true, k = -1; done && ++k < s5;)
 					if(field[2][stove[2]+k] || field[0][stove[2]+k])
-						flag = false;
-				if(flag) break;
+						done = false;
+				if(done) break;
 			}
 			if(stove[1] >= s && stove[2] >= s) continue;
 			else if(stove[1] < s && stove[2] >= s){
-				for(stove[0] = 1, k = -1; ++k < s5;){ // player 1
-					field[1][stove[1]+k] = true;
-					field[0][stove[1]+k] = true;
-				}
+				for(stove[0] = 1, k = -1; ++k < s5; // player 1
+					field[1][stove[1]+k] = true,
+					field[0][stove[1]+k] = true
+				);
 				if(stove[1]+s5 > start) start = stove[1]+s5;
 			}else if(stove[1] >= s && stove[2] < s){
-				for(stove[0] = 2, k = -1; ++k < s5;){ // player 2
-					field[2][stove[2]+k] = true;
-					field[0][stove[2]+k] = true;
-				}
+				for(stove[0] = 2, k = -1; ++k < s5; // player 2
+					field[2][stove[2]+k] = true,
+					field[0][stove[2]+k] = true
+				);
 				if(stove[2]+s5 > start) start = stove[2]+s5;
 			}else if(stove[1] <= stove[2]){
-				for(stove[0] = 1, k = -1; ++k < s5;){ // player 1
-					field[1][stove[1]+k] = true;
-					field[0][stove[1]+k] = true;
-				}
+				for(stove[0] = 1, k = -1; ++k < s5; // player 1
+					field[1][stove[1]+k] = true,
+					field[0][stove[1]+k] = true
+				);
 				if(stove[1]+s5 > start) start = stove[1]+s5;
 			}else{
-				for(stove[0] = 2, k = -1; ++k < s5;){ // player 2
-					field[2][stove[2]+k] = true;
-					field[0][stove[2]+k] = true;
-				}
+				for(stove[0] = 2, k = -1; ++k < s5; // player 2
+					field[2][stove[2]+k] = true,
+					field[0][stove[2]+k] = true
+				);
 				if(stove[2]+s5 > start) start = stove[2]+s5;
 			}
 		}
 		if(order[i].c){
 			const int c = f - c3;
-			for(flag = true, cut[1] = order[i].arrival; cut[1] < c; ++cut[1]){ // player 1
-				for(flag = true, k = -1; flag && ++k < c3;)
+			for(done = true, cut[1] = order[i].arrival; cut[1] < c; ++cut[1]){ // player 1
+				for(done = true, k = -1; done && ++k < c3;)
 					if(field[1][cut[1]+k] || field[3][cut[1]+k])
-						flag = false;
-				if(flag) break;
+						done = false;
+				if(done) break;
 			}
-			for(flag = true, cut[2] = order[i].arrival; cut[2] < c; ++cut[2]){ // player 2
-				for(flag = true, k = -1; flag && ++k < c3;)
+			for(done = true, cut[2] = order[i].arrival; cut[2] < c; ++cut[2]){ // player 2
+				for(done = true, k = -1; done && ++k < c3;)
 					if(field[2][cut[2]+k] || field[3][cut[2]+k])
-						flag = false;
-				if(flag) break;
+						done = false;
+				if(done) break;
 			}
 			if(cut[1] >= c && cut[2] >= c){
 				if(stove[0] == 1){ // player 1
-					for(k = -1; ++k < s5;){
-						field[1][stove[1]+k] = false;
-						field[0][stove[1]+k] = false;
-					}
+					for(k = -1; ++k < s5;
+						field[1][stove[1]+k] = false,
+						field[0][stove[1]+k] = false
+					);
 				}else if(stove[0] == 2){ // player 2
-					for(k = -1; ++k < s5;){
-						field[2][stove[2]+k] = false;
-						field[0][stove[2]+k] = false;
-					}
+					for(k = -1; ++k < s5;
+						field[2][stove[2]+k] = false,
+						field[0][stove[2]+k] = false
+					);
 				}
 				continue;
 			}else if(cut[1] < c && cut[2] >= c){
-				for(cut[0] = 1, k = -1; ++k < c3;){ // player 1
-					field[1][cut[1]+k] = true;
-					field[3][cut[1]+k] = true;
-				}
+				for(cut[0] = 1, k = -1; ++k < c3; // player 1
+					field[1][cut[1]+k] = true,
+					field[3][cut[1]+k] = true
+				);
 				if(cut[1]+c3 > start) start = cut[1]+c3;
 			}else if(cut[1] >= c && cut[2] < c){
-				for(cut[0] = 2, k = -1; ++k < c3;){ // player 2
-					field[2][cut[2]+k] = true;
-					field[3][cut[2]+k] = true;
-				}
+				for(cut[0] = 2, k = -1; ++k < c3; // player 2
+					field[2][cut[2]+k] = true,
+					field[3][cut[2]+k] = true
+				);
 				if(cut[2]+c3 > start) start = cut[2]+c3;
 			}else{
 				if(cut[1] <= cut[2]){
-					for(cut[0] = 1, k = -1; ++k < c3;){ // player 1
-						field[1][cut[1]+k] = true;
-						field[3][cut[1]+k] = true;
-					}
+					for(cut[0] = 1, k = -1; ++k < c3; // player 1
+						field[1][cut[1]+k] = true,
+						field[3][cut[1]+k] = true
+					);
 					if(cut[1]+c3 > start) start = cut[1]+c3;
 				}else{
-					for(cut[0] = 2, k = -1; ++k < c3;){ // player 2
-						field[2][cut[2]+k] = true;
-						field[3][cut[2]+k] = true;
-					}
+					for(cut[0] = 2, k = -1; ++k < c3; // player 2
+						field[2][cut[2]+k] = true,
+						field[3][cut[2]+k] = true
+					);
 					if(cut[2]+c3 > start) start = cut[2]+c3;
 				}
 			}
 		}
-		for(flag = true, put[1] = start; put[1] < f; ++put[1]){ // player 1
-			for(flag = true, k = -1; flag && ++k < order[i].others;)
+		for(done = true, put[1] = start; put[1] < f; ++put[1]){ // player 1
+			for(done = true, k = -1; done && ++k < order[i].others;)
 				if(field[1][put[1]+k])
-					flag = false;
-			if(flag) break;
+					done = false;
+			if(done) break;
 		}
-		for(flag = true, put[2] = start; put[2] < f; ++put[2]){ // player 2
-			for(flag = true, k = -1; flag && ++k < order[i].others;)
+		for(done = true, put[2] = start; put[2] < f; ++put[2]){ // player 2
+			for(done = true, k = -1; done && ++k < order[i].others;)
 				if(field[2][put[2]+k])
-					flag = false;
-			if(flag) break;
+					done = false;
+			if(done) break;
 		}
 		if(put[1] >= f && put[2] >= f){
 			if(stove[0] == 1){ // player 1
-				for(k = -1; ++k < s5;){
-					field[1][stove[1]+k] = false;
-					field[0][stove[1]+k] = false;
-				}
+				for(k = -1; ++k < s5;
+					field[1][stove[1]+k] = false,
+					field[0][stove[1]+k] = false
+				);
 			}else if(stove[0] == 2){ // player 2
-				for(k = -1; ++k < s5;){
-					field[2][stove[2]+k] = false;
-					field[0][stove[2]+k] = false;
-				}
+				for(k = -1; ++k < s5;
+					field[2][stove[2]+k] = false,
+					field[0][stove[2]+k] = false
+				);
 			}
 			if(cut[0] == 1){ // player 1
-				for(k = -1; ++k < c3;){
-					field[1][cut[1]+k] = false;
-					field[3][cut[1]+k] = false;
-				}
+				for(k = -1; ++k < c3;
+					field[1][cut[1]+k] = false,
+					field[3][cut[1]+k] = false
+				);
 			}else if(cut[0] == 2){ // player 2
-				for(k = -1; ++k < c3;){
-					field[2][cut[2]+k] = false;
-					field[3][cut[2]+k] = false;
-				}
+				for(k = -1; ++k < c3;
+					field[2][cut[2]+k] = false,
+					field[3][cut[2]+k] = false
+				);
 			}
 			continue;
 		}else if(put[1] < f && put[2] >= f)
@@ -302,7 +302,9 @@ main(){ // run in c18
 					temp1->next = temp2->next;
 					temp2->next = temp1;
 				}
+				Node *temp = pivot;
 				pivot = pivot->next;
+				free(temp);
 			}
 		}else if(stove[0] == 2){ // player 2
 			for(Node *pivot = order[i].stove; pivot;){
@@ -398,20 +400,20 @@ main(){ // run in c18
 			}
 		}
 	}
-	Task *middle;
-	for(commands = 0, middle = NULL; player1; commands++){
-		Task *trail = middle; // invert player1 task
-		middle = player1;
-		player1 = player1->next;
-		middle->next = trail;
-	}
+	Task *middle, *trail;
+	for(commands = 0, middle = NULL; player1; commands++,
+		trail = middle, // invert player1 task
+		middle = player1,
+		player1 = player1->next,
+		middle->next = trail
+	);
 	player1 = middle;
-	for(middle = NULL; player2; commands++){
-		Task *trail = middle; // invert player2 task
-		middle = player2;
-		player2 = player2->next;
-		middle->next = trail;
-	}
+	for(middle = NULL; player2; commands++,
+		trail = middle, // invert player2 task
+		middle = player2,
+		player2 = player2->next,
+		middle->next = trail
+	);
 	player2 = middle;
 	if(!(outputFile = fopen(outputFileName, "w"))){
 		printf("File open failed \"%s\", exit program.\n", outputFileName);
