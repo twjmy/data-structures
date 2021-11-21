@@ -302,9 +302,7 @@ main(){ // run in c18
 					temp1->next = temp2->next;
 					temp2->next = temp1;
 				}
-				Node *temp = pivot;
 				pivot = pivot->next;
-				free(temp);
 			}
 		}else if(stove[0] == 2){ // player 2
 			for(Node *pivot = order[i].stove; pivot;){
