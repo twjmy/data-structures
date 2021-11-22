@@ -7,11 +7,11 @@ char recipesFileName[] = "test_case_2-2/recipes.txt"; // [PPT] Read the file (re
 char ordersFileName[] = "test_case_2-2/orders.txt"; // [PPT] Read the file (orders.txt)
 char outputFileName[] = "Scoring program/players.txt"; // [PPT] Output the work schedule of two players to players.txt in the order of time.
 typedef struct node{
-	char object[15];
+	char object[16];
 	struct node *next;
 } Node;
 typedef struct recipe{
-	char recipe_name[35]; // [PPT] The "recipe_name" field indicates which meals your guests ordered.
+	char recipe_name[32]; // [PPT] The "recipe_name" field indicates which meals your guests ordered.
 	int s; // [PPT] The ingredients that need to be cooked first on the stove.
 	int c; // [PPT] The ingredients that need to be processed first on the cutting board.
 	int others; // [PPT] The ingredients that do not require pre-processing.
@@ -42,7 +42,7 @@ typedef struct task{
 	 * (2) c+object: cutting "object" on cutting board.
 	 * (3) f : food presentation.
 	 */
-	char command, object[15];
+	char command, object[16];
 	struct task *next;
 } Task;
 int commands; // [PPT] The first line uses an integer to indicate how many commands there are.
@@ -124,15 +124,14 @@ main(){ // run in c18
 		perror("Error"); exit(EXIT_FAILURE);
 	}printf("File closed \"%s\"\n", ordersFileName);
 	for(i = -1; ++i < n-1;){ // selection sort order by money
-		k = i;
-		for(j = i; ++j < n; k = (order[k].money < order[j].money)?j:k);
+		for(k = i, j = i; ++j < n; k = (order[k].money<order[j].money)?j:k);
 		if(i != k){
 			Order temp = order[i];
 			order[i] = order[k];
 			order[k] = temp;
 		}
 	}
-	for(i = -1, k = 0; ++i < n; k = (k < order[i].deadline) ? order[i].deadline : k);
+	for(i = -1, k = 0; ++i < n; k = (k<order[i].deadline)?order[i].deadline:k); // k: max deadline
 	/**
 	 * for players go s/c/f
 	 * 0: stove, 1,2: player, 3: cut
@@ -147,14 +146,12 @@ main(){ // run in c18
 			const int s = f - s5;
 			for(done = true, stove[1] = order[i].arrival; stove[1] < s; ++stove[1]){ // player 1
 				for(done = true, k = -1; done && ++k < s5;)
-					if(field[1][stove[1]+k] || field[0][stove[1]+k])
-						done = false;
+					if(field[0][stove[1]+k] || field[1][stove[1]+k]) done = false;
 				if(done) break;
 			}
 			for(done = true, stove[2] = order[i].arrival; stove[2] < s; ++stove[2]){ // player 2
 				for(done = true, k = -1; done && ++k < s5;)
-					if(field[2][stove[2]+k] || field[0][stove[2]+k])
-						done = false;
+					if(field[0][stove[2]+k] || field[2][stove[2]+k]) done = false;
 				if(done) break;
 			}
 			if(stove[1] >= s && stove[2] >= s) continue;
@@ -188,14 +185,12 @@ main(){ // run in c18
 			const int c = f - c3;
 			for(done = true, cut[1] = order[i].arrival; cut[1] < c; ++cut[1]){ // player 1
 				for(done = true, k = -1; done && ++k < c3;)
-					if(field[1][cut[1]+k] || field[3][cut[1]+k])
-						done = false;
+					if(field[1][cut[1]+k] || field[3][cut[1]+k]) done = false;
 				if(done) break;
 			}
 			for(done = true, cut[2] = order[i].arrival; cut[2] < c; ++cut[2]){ // player 2
 				for(done = true, k = -1; done && ++k < c3;)
-					if(field[2][cut[2]+k] || field[3][cut[2]+k])
-						done = false;
+					if(field[2][cut[2]+k] || field[3][cut[2]+k]) done = false;
 				if(done) break;
 			}
 			if(cut[1] >= c && cut[2] >= c){
@@ -241,14 +236,12 @@ main(){ // run in c18
 		}
 		for(done = true, put[1] = start; put[1] < f; ++put[1]){ // player 1
 			for(done = true, k = -1; done && ++k < order[i].others;)
-				if(field[1][put[1]+k])
-					done = false;
+				if(field[1][put[1]+k]) done = false;
 			if(done) break;
 		}
 		for(done = true, put[2] = start; put[2] < f; ++put[2]){ // player 2
 			for(done = true, k = -1; done && ++k < order[i].others;)
-				if(field[2][put[2]+k])
-					done = false;
+				if(field[2][put[2]+k]) done = false;
 			if(done) break;
 		}
 		if(put[1] >= f && put[2] >= f){
@@ -302,7 +295,9 @@ main(){ // run in c18
 					temp1->next = temp2->next;
 					temp2->next = temp1;
 				}
+				Node *temp = pivot;
 				pivot = pivot->next;
+				// free(temp);
 			}
 		}else if(stove[0] == 2){ // player 2
 			for(Node *pivot = order[i].stove; pivot;){
@@ -322,7 +317,9 @@ main(){ // run in c18
 					temp1->next = temp2->next;
 					temp2->next = temp1;
 				}
+				Node *temp = pivot;
 				pivot = pivot->next;
+				// free(temp);
 			}
 		}
 		if(cut[0] == 1){ // player 1
@@ -343,7 +340,9 @@ main(){ // run in c18
 					temp1->next = temp2->next;
 					temp2->next = temp1;
 				}
+				Node *temp = pivot;
 				pivot = pivot->next;
+				// free(temp);
 			}
 		}else if(cut[0] == 2){ // player 2
 			for(Node *pivot = order[i].cut; pivot;){
@@ -363,7 +362,9 @@ main(){ // run in c18
 					temp1->next = temp2->next;
 					temp2->next = temp1;
 				}
+				Node *temp = pivot;
 				pivot = pivot->next;
+				// free(temp);
 			}
 		}
 		if(put[0] == 1){ // player 1
@@ -397,7 +398,7 @@ main(){ // run in c18
 				temp2->next = temp1;
 			}
 		}
-	}
+	}free(order);
 	Task *middle, *trail;
 	for(commands = 0, middle = NULL; player1; commands++,
 		trail = middle, // invert player1 task
